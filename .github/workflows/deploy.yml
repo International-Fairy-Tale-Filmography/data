@@ -15,10 +15,13 @@ jobs:
         run: mkdir wwwroot
 
       - name: copy sqlite file
-        run: cp sqlite/iftf.db wwwroot/sqlite/iftf.db
+        run: cp sqlite wwwroot
 
       - name: copy csv folder
-        run: cp csv wwwroot/csv
+        run: cp csv wwwroot
+
+      - name: copy json folder
+        run: cp json wwwroot
 
       # add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project. (Allow files and folders starting with an underscore)
       - name: Add .nojekyll file
