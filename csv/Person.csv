@@ -1,4 +1,4 @@
-﻿PersonID,FirstName,LastName,AddDate,AddOperator,ChangeDate,ChangeOperator
+﻿PersonId,FirstName,LastName,AddDate,AddOperator,ChangeDate,ChangeOperator
 181,Nietzchka,Keene,5/15/2013 3:04:10 PM,developer,null,null
 182,Micheline,Lanctôt,5/15/2013 3:05:11 PM,developer,null,null
 183,Nikolay,Erdman,5/15/2013 3:05:52 PM,developer,null,null
