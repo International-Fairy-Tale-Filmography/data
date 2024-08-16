@@ -1,7 +1,7 @@
 ---
 name: Revise a existing Film
 about: Submit a revision to be considered
-title: "[REV] "
+title: "[REV]"
 labels: film-revision, status-triage
 assignees: ''
 
@@ -9,17 +9,11 @@ assignees: ''
 
 ## Required Fields
 
-***For a film to be considered, these 3 fields must be filled:***
+**URL to Page on Filmography**
 
-**Title:**
-
-**Year of Release:**
+## Production 
 
 **Director(s):**
-
-
-
-## Production *(optional)*
 
 **Cinematographer(s):**
 
@@ -37,6 +31,10 @@ assignees: ''
 
 
 ## Film Information *(optional)*
+
+**Title:**
+
+**Year of Release:**
 
 **Other Titles**
 
