@@ -1,4 +1,4 @@
-﻿FilmId,Title,OtherTitle,Color,ReleaseYear,Duration,Mode,Comment,PublishedStatus
+﻿FilmId,Title,OtherTitle,Color,ReleaseYear,Duration,Mode,Comment,Published
 35,The Juniper Tree,null,BW,1990,78,L,null,true
 36,Le piège d'Issoudun,Juniper Tree,C,2003,85,L,null,true
 37,Priklyucheniya Buratino,"The Adventures of Buratino, Pinocchio and the Golden Key",C,1960,67,A,null,true
