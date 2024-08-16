@@ -1,7 +1,7 @@
 ---
 name: Revise a existing Film
 about: Submit a revision to be considered
-title: "[REV]"
+title: "[REV] "
 labels: film-revision, status-triage
 assignees: ''
 

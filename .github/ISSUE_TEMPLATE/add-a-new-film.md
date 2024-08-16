@@ -1,7 +1,7 @@
 ---
 name: Add a new Film
 about: Submit a new film to be considered for inclusion in the filmography
-title: "[ADD]"
+title: "[ADD] "
 labels: film-submission, status-triage
 assignees: ''
 
