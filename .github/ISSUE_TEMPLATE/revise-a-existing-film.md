@@ -1,8 +1,8 @@
 ---
-name: New Film Submission
-about: Submit a film to be considered for inclusion in the filmography
-title: "[ADD]"
-labels: film-submission, status-triage
+name: Revise a existing Film
+about: Submit a revision to be considered
+title: "[REV]"
+labels: film-revision, status-triage
 assignees: ''
 
 ---
