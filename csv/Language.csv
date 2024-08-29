@@ -1,0 +1,165 @@
+﻿LanguageId,Code,Name
+1,AB,Abkhazian
+2,AA,Afar
+3,AF,Afrikaans
+4,SQ,Albanian
+5,AM,Amharic
+6,AR,Arabic
+7,HY,Armenian
+8,AS,Assamese
+9,AY,Aymara
+10,AZ,Azerbaijani
+11,BA,Bashkir
+12,EU,Basque
+13,BN,"Bengali, Bangla"
+14,DZ,Bhutani
+15,BH,Bihari
+16,BI,Bislama
+17,BR,Breton
+18,BG,Bulgarian
+19,MY,Burmese
+20,BE,Byelorussian
+21,KM,Cambodian
+22,CA,Catalan
+23,ZH,Chinese
+24,CO,Corsican
+25,HR,Croatian
+26,CS,Czech
+27,DA,Danish
+28,NL,Dutch
+30,EO,Esperanto
+31,ET,Estonian
+32,FO,Faeroese
+33,FJ,Fiji
+34,FI,Finnish
+35,FR,French
+36,FY,Frisian
+37,GD,Gaelic (Scots Gaelic)
+38,GL,Galician
+39,KA,Georgian
+40,DE,German
+41,EL,Greek
+42,KL,Greenlandic
+43,GN,Guarani
+44,GU,Gujarati
+45,HA,Hausa
+46,IW,Hebrew
+47,HI,Hindi
+48,HU,Hungarian
+49,IS,Icelandic
+50,IN,Indonesian
+51,IA,English
+52,IE,Interlingue
+53,IK,Inupiak
+54,GA,Irish
+55,IT,Italian
+56,JA,Japanese
+57,JW,Javanese
+58,KN,Kannada
+59,KS,Kashmiri
+60,KK,Kazakh
+61,RW,Kinyarwanda
+62,KY,Kirghiz
+63,RN,Kirundi
+64,KO,Korean
+65,KU,Kurdish
+66,LO,Laothian
+67,LA,Latin
+68,LV,"Latvian, Lettish"
+69,LN,Lingala
+70,LT,Lithuanian
+71,MK,Macedonian
+72,MG,Malagasy
+73,MS,Malay
+74,ML,Malayalam
+75,MT,Maltese
+76,MI,Maori
+77,MR,Marathi
+78,MO,Moldavian
+79,MN,Mongolian
+80,NA,Nauru
+81,NE,Nepali
+82,NO,Norwegian
+83,OC,Occitan
+84,OR,Oriya
+85,OM,"Oromo, Afan"
+86,PS,"Pashto, Pushto"
+87,FA,Persian
+88,PL,Polish
+89,PT,Portuguese
+90,PA,Punjabi
+91,QU,Quechua
+92,RM,Rhaeto-Romance
+93,RO,Romanian
+94,RU,Russian
+95,SM,Samoan
+96,SG,Sangro
+97,SA,Sanskrit
+98,SR,Serbian
+99,SH,Serbo-Croatian
+100,ST,Sesotho
+101,TN,Setswana
+102,SN,Shona
+103,SD,Sindhi
+104,SI,Singhalese
+105,SS,Siswati
+106,SK,Slovak
+107,SL,Slovenian
+108,SO,Somali
+109,ES,Spanish
+110,SU,Sudanese
+111,SW,Swahili
+112,SV,Swedish
+113,TL,Tagalog
+114,TG,Tajik
+115,TA,Tamil
+116,TT,Tatar
+117,TE,Tegulu
+118,TH,Thai
+119,BO,Tibetan
+120,TI,Tigrinya
+121,TO,Tonga
+122,TS,Tsonga
+123,TR,Turkish
+124,TK,Turkmen
+125,TW,Twi
+126,UK,Ukrainian
+127,UR,Urdu
+128,UZ,Uzbek
+129,VI,Vietnamese
+130,VO,Volapuk
+131,CY,Welsh
+132,WO,Wolof
+133,XH,Xhosa
+134,JI,Yiddish
+135,YO,Yoruba
+136,ZU,Zulu
+137,SL,Silent Film
+138,JE,Jamaican English
+139,CA,Cantonese
+140,MN,Mandarin
+142,null,Filipino
+143,null,British Sign Language
+144,null,Inuktitut
+145,null,Telugu
+146,null,Bambara
+147,null,Fulah
+148,null,Yolngu Matha
+149,null,Hawaiian
+150,null,Dzongkha
+151,null,American Sign Language
+152,null,Pauline
+153,null,German Sign Language
+154,null,Ladino
+155,null,Sinhalese
+156,null,Bosnian
+157,null,Swiss German
+158,null,Min Nan
+159,null,Flemish
+160,null,Gallegan
+161,null,Middle English
+162,null,Old English
+163,null,Khmer
+165,null,Shanghainese
+166,null,Irish Gaelic
+167,null,Cree
