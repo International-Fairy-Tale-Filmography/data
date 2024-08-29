@@ -1,0 +1,545 @@
+﻿OriginId,Code,Author,Title
+1,300,null,The Dragon-Slayer
+2,301,null,The Three Stolen Princesses
+3,302,null,The Ogre's (Devil's) Heart in the Egg
+4,303,null,The Twins Or Blood-Brothers
+5,303A,null,Brothers Seek Sisters as Wives
+6,304,null,The Dangerous Night-Watch
+7,306,null,The Danced-out Shoes
+8,307,null,The Princess in the Coffin
+9,310,null,The Maiden in the Tower
+10,311,null,Rescue by the Sister
+11,312,null,Maiden-Killer (Bluebeard)
+12,313,null,The Magic Flight
+13,314,null,Goldener
+14,315,null,The Faithless Sister
+15,316,null,The Nix of the Mill-Pond
+16,317,null,The Tree That Grows up to the Sky
+17,318,null,The Faithless Wife
+18,325,null,The Magician and his Pupil
+19,326,null,The Youth Who Wanted to Learn What Fear Is
+20,327,null,The Children and the Ogre
+21,327A,null,Hansel and Gretel
+22,327B,null,The Brothers and the Ogre
+23,328,null,The Boy Steals the Ogre's Treasure
+24,328A,null,Jack and the Beanstalk
+25,329,null,Hiding from the Princess
+26,331,null,The Spirit in the Bottle
+27,332,null,Godfather Death
+28,333,null,Little Red Riding Hood
+29,334,null,Household of the Witch
+30,360,null,Bargain of the Three Brothers with the Devil
+31,361,null,Bear-Skin
+32,365,null,The Dead Bridegroom Carries off His Bride
+33,400,null,The Man on a Quest for His Lost Wife
+34,402,null,The Animal Bride
+35,403,null,The Black and the White Bride
+36,405,null,Jorinde and Joringel
+37,407,null,The Girl as Flower
+38,408,null,The Three Oranges
+39,409A,null,The Girl as Goat
+40,410,null,Sleeping Beauty
+41,425,null,Search for the Lost Husband
+42,425C,null,Beauty and the Beast
+43,425D,null,The Vanished Husband
+44,426,null,"The Two Girls, the Bear, and the Dwarf"
+45,430,null,The Donkey
+46,431,null,The House in the Forest
+47,432,null,The Prince as Bird
+48,433B,null,King Lindorm
+49,440,null,The Frog King Or Iron Henry
+50,441,null,Hans My Hedgehog
+51,442,null,The Old Woman in the Forest
+52,450,null,Little Brother and Little Sister
+53,451,null,The Maiden Who Seeks Her Brothers
+54,461,null,Three Hairs from the Devil's Beard
+55,471,null,The Bridge to the Otherworld
+56,476,null,Coal Turns into Gold
+57,476,null,In the Frog's House
+58,480,null,The Kind and the Unkind Girls
+59,500,null,The Name of the Supernatural Helper
+60,501,null,The Three Old Spinning Women
+61,502,null,The Wild Man
+62,503,null,The Gifts of the Little People
+63,505,null,The Grateful Dead
+64,507,null,The Monster's Bride
+65,510A,null,Cinderella
+66,510B,null,Peau d'Asne
+67,511,null,"One-Eye, Two-Eyes, Three-Eyes"
+68,513,null,The Extraordinary Companions
+69,513A,null,Six Go through the Whole World
+70,514,null,The Shift of Sex
+71,514**,null,A Young Woman Disguised as a Man is Wooed by the Queen
+72,515,null,The Shepherd Boy
+73,516,null,Faithful John
+74,517,null,The Boy Who Understands the Language of Birds
+75,518,null,Men Fight over Magic Objects
+76,519,null,The Strong Woman as Bride (Brunhilde)
+77,530,null,The Princess on the Glass Mountain
+78,531,null,The Clever Horse
+79,533,null,The Speaking Horsehead
+80,537,null,The Flight on the Grateful Eagle
+81,545B,null,Puss in Boots
+82,550,null,"Bird, Horse and Princess"
+83,551,null,Water of Life
+84,552,null,The Girls Who Married Animals
+85,554,null,The Grateful Animals
+86,555,null,The Fisherman and his Wife
+87,559,null,Dungbeetle
+88,560,null,The Magic Ring
+89,561,null,Aladdin
+90,562,null,The Spirit in the Blue Light
+91,564,null,The Magic Providing Purse
+92,565,null,The Magic Mill
+93,566,null,The Three Magic Objects and the Wonderful Fruits
+94,567,null,The Magic Bird-Heart
+95,570,null,The Rabbit-Herd
+96,571,null,All Stick Together
+97,575,null,The Prince's Wings
+98,577,null,The King's Tasks
+99,580,null,Beloved of Women
+100,585,null,"Spindle, Shuttle, and Needle"
+101,590,null,The Faithless Mother
+102,610,null,The Healing Fruits
+103,611,null,The Gifts of the Demons
+104,612,null,The Three Snake-Leaves
+105,613,null,The Two Travelers (Truth and Falsehood)
+106,613C,null,Sister and Brother healing the King
+107,650A,null,Strong John
+108,652,null,The Prince Whose Wishes Always Come True
+109,653,null,The Four Skillful Brothers
+110,665,null,The Man Who Flew like a Bird and Swam like a Fish
+111,667,null,The Wood Spirit's Foster-Son
+112,670,null,The Man Who Understands Animal Languages
+113,671,null,The Three Languages
+114,672,null,The Serpent's Crown
+115,673,null,The White Serpent's Flesh
+116,675,null,The Lazy Boy
+117,700,null,Thumbling
+118,703*,null,The Artificial Child
+119,704,null,Princess on the Pea
+120,705A,null,Born from Fruit (Fish)
+121,706,null,The Maiden without Hands
+122,707,null,The Three Golden Children
+123,708,null,The Wonder Child
+124,709,null,Snow White
+125,710,null,Our Lady's Child
+126,711,null,The Beautiful and the Ugly Twinsisters
+127,712,null,Crescentia
+128,720,null,The Juniper Tree
+129,725,null,Prophecy of Future Sovereignty
+130,2028,null,The Devouring Animal That Was Cut Open
+132,null,Aleksei Tolstoy,null
+133,null,Gottfried August Bürger,null
+134,null,Jean-Pierre Andrevon,Metal Men against Gandahar
+135,null,Alexander Pushkin,Skazka o zolotom petushke
+137,null,V. Kataev,null
+138,null,Kir Bulychyov,Alice’s Travel
+139,null,Ruth Stiles Gannett,My Father’s Dragon
+140,null,null,One Thousand and One Nights
+141,null,Lev Tolstoy,null
+142,null,Bozena Nemcová,Princ Bajaja
+143,null,Babette Cole,Prince Cinders
+144,null,William Steig,Shrek!
+145,null,"Nikolai Rimsky-Korsakov, Aleksandr Ostrovsky",null
+146,null,Hans Christian Andersen,The Snow Queen
+147,null,Otfried Preußler,Krabat
+148,null,Miyoko Matsutani,Tatsu no ko Taro
+149,null,Hans Christian Andersen,null
+150,null,null,A Wolf at the Door
+151,130,null,The Animals in Night Quarters (Bremen Town Musicians)
+152,null,Hans Christian Andersen,The Ugly Duckling
+153,124,null,Blowing the House In
+154,null,null,Babes in the Woods
+155,null,Lewis Carroll,Alice's Adventures in Wonderland
+157,null,Hans Christian Andersen,The Steadfast Tin Soldier
+159,954,null,The Forty Thieves (Ali Baba)
+162,null,null,Original Fairy-Tale Film
+164,null,null,The Pied Piper of Hamelin
+165,null,Tonino Guerra,null
+166,null,null,Münchhausen
+167,null,Hans Christian Andersen,The Wild Swans
+168,null,Fred Pellerin,null
+169,null,Lucy Lane Clifford,The New Mother
+170,null,Philip Pullman,I Was a Rat
+171,null,Mordecai Richler,Jacob Two Two Meets the Hooded Fang
+173,null,Gregory Maguire,The Confessions of an Ugly Stepsister
+174,null,Ivana Brlic-Mazuranic,"udnovate zgode šegrta Hlapia "
+175,null,L. Frank Baum,The Wizard of Oz
+176,null,Hans Christian Andersen,The Red Shoes
+177,null,Hans Christian Andersen,The Little Mermaid
+178,null,Heinrich Hoffman,Struwwelpeter
+179,null,Hans Christian Andersen,The Nightingale
+180,112,null,Country Mouse Visits Town Mouse
+181,156,null,Androcles and the Lion
+182,298,null,The Contest of Wind and Sun
+183,780,null,The Singing Bone
+184,null,Tim Burton,null
+186,null,Hayao Miyazaki,null
+187,null,null,Goldilocks and the Three Bears
+188,null,Neil Gaiman,null
+189,null,Alex Flinn,Beastly
+190,null,Carlo Collodi,Pinocchio
+191,null,Philip Pullman,null
+192,955,null,The Robber Bridegroom
+193,null,Lafcadio Hearn,null
+194,null,Cressida Cowell,null
+195,null,Diana Wynne Jones,null
+196,null,James M. Barrie,Peter Pan
+198,null,Vikas Swarup,Q&A
+199,null,David Peace,Red Riding
+200,null,Daphne du Maurier,Rebecca
+201,null,William Shakespeare,Midsummer Night's Dream
+202,null,Riyoko Ikeda,Versailles no bara/La Rose de Versailles
+203,null,Jan Potocki,The Manuscript found in Saragossa
+204,null,Roald Dahl,Fantastic Mr. Fox
+205,null,Lloyd Alexander,The Black Cauldron
+206,null,William Goldman,The Princess Bride
+207,null,Richard Rieß,Sumurun
+208,null,Edward Knoblock,Kismet
+209,null,Harold McGrath,The Carpet from Bagdad
+210,null,"Alexandre Dumas, fils",La princesse de Baghdad
+211,null,Edith Maude Hull,The Sheik
+212,null,Sergey Aksakov,The Scarlet Flower
+213,null,George Bronson Howard,Monsieur Bluebeard
+214,null,Agatha Christie,Philomel Cottage
+215,null,Frank Vosper,Love from a Stranger
+216,null,Alfred Savoir,La huitième femme de Barbe-Bleue
+217,null,Patrick Hamilton,Angel Street
+218,null,Rufus King,Secret Beyond the Door
+219,null,Max Frisch,Blaubart
+220,null,Clyde Fitch,null
+221,null,Edward Childs Carpenter,The Cinderella Man
+222,null,F. Hopkinson Smith,null
+223,null,Jean Webster,Daddy-Long-Legs
+224,null,J. Breckenridge Ellis,Little Fiddler of the Ozarks
+225,null,S. R. Crockett,Cinderella: a novel
+226,null,J. M. Barrie,A Kiss for Cinderella
+227,null,William M. Conselman,Ella Cinders
+228,null,Charles Plumb,Ella Cinders
+229,null,Barry Conners,The Patsy
+230,null,null,Vasilisa the Beautiful
+231,null,null,Aleksandr Ostrovskiy
+232,null,Nikolai Gogol,null
+233,510,null,Cinderella and Peau d'Âne
+234,884,null,The Forsaken Fiancée‎:  Service as Menial
+235,930,null,The Prophecy
+236,null,Gail Carson Levine,Ella Enchanted
+238,null,Nina Rootes,The Frog Prince
+239,null,Michael William Balfe,The Bohemian Girl
+240,null,Gabriel García Márquez,Erendira
+241,null,Sarah Strohmeyer,The Cinderella Pact
+246,2025,null,The Fleeing Pancake
+247,null,Peter S. Beagle,The Last Unicorn
+252,null,Hans Christian Andersen,The Princess and the Pea
+253,null,Hans Christian Andersen,The Emperor's New Clothes
+254,null,Hans Christian Andersen,The Flea and the Professor
+255,null,Hans Christian Andersen,The Tinder Box
+256,null,Hans Christian Andersen,Little Ida's Flowers
+258,null,Hans Christian Andersen,The Gardner and the Noble Family
+259,null,Hans Christian Andersen,Thumbelina
+260,null,Hans Christian Andersen,The Traveling Companion
+261,null,Hans Christian Andersen,The Sweethearts
+262,null,Hans Christian Andersen,The Swineherd
+263,null,Hans Christian Andersen,The Dung Beetle
+264,null,Hans Christian Andersen,What the Old Man Does is Always Right
+265,null,Hans Christian Andersen,The Galoshes of Fortune
+266,null,Hans Christian Andersen,Clumsy Hans
+267,null,Hans Christian Andersen,The Spruce Tree
+268,null,Hans Christian Andersen,The Little Match Girl
+269,null,Hans Christian Andersen,The Naughty Boy
+270,null,Hans Christian Andersen,It's Quite True!
+271,null,Hans Christian Andersen,Heartache
+272,null,Hans Christian Andersen,The Shepherdess and the Chimneysweep
+273,null,Hans Christian Andersen,The Woman with the Eggs
+274,null,Hans Christian Andersen,Little Claus and Big Claus
+275,null,Hans Christian Andersen,The Puppet-Show Man
+276,null,Hans Christian Andersen,The Garden of Paradise
+277,null,Hans Christian Andersen,The Twelve Dancing Princesses
+278,null,Michael Ende,The NeverEnding Story
+279,900,null,King Thrushbeard
+280,875,null,The Clever Farmgirl
+281,1640,null,The Brave Little Tailor
+282,1415,null,Hans in Luck
+284,null,Hans Christian Andersen,The Seven Swans
+285,null,Maurice Maeterlinck,L'Oiseau Bleu
+287,null,null,The Boy Who Cried Wolf
+288,null,null,Little Bo Peep
+289,null,George MacDonald,The Princess and the Goblin
+290,null,Madame d'Aulnoy,Fortunée
+292,null,Cesare Zavattini,Totò il buono
+293,null,J. R. R. Tolkien,The Hobbit
+294,null,Tomm Moore,The Book of Kells
+295,null,Ivana Brlic-Mažuranic,Čudnovate zgode šegrta Hlapića
+296,null,Valmiki,The Ramayana
+297,null,Édouard René Lefebvre de Laboulaye,Zerbin le Farouche
+298,1525A,null,The Master Thief
+299,null,P. L. Travers,Mary Poppins
+300,null,Clemens Brentano,Das Marchen von dem Myrtenfräulein
+301,null,Washington Irving,The Legend of Sleepy Hollow
+302,null,Eiko Kadono,Majo no takkyûbin (Kiki's Delivery Service)
+303,null,null,Kalevala
+304,null,Aleksandr Sergeyevich Pushkin,Skazka o tsare Saltane
+305,750A,null,The Three Wishes
+306,null,Horace Walpole,The Castle of Otranto
+307,null,Edgar Allan Poe,The Fall of the House of Usher
+308,null,Josef Kolber,Do pivnice
+309,null,Edgar Allan Poe,The Pit and the Pendulum
+310,null,Virginia Lee Burton,Mike Mulligan and His Steam Shovel
+311,null,Kenneth Grahame,The Reluctant Dragon
+312,null,Ismet Regeila,My Kingdom for a Woman
+313,null,Roald Dahl,Charlie and the Chocolate Factory
+314,212,null,The Goat that Lied
+317,563,null,"The Table, the Donkey, and the Stick"
+318,null,A.S. Byatt,Possession
+319,null,E.T.A. Hoffmann,The Nutcracker and the Mouse King
+320,null,Roald Dahl,The Witches
+321,null,Jostein Gaarder,Appelsinpiken
+322,null,Rosalie K. Fry,The Secret of Ron Mor Skerry
+323,null,E. T. A. Hoffmann,null
+324,null,Witi Ihimaera,The Whale Rider
+326,null,E. T. A. Hoffmann,The Sandman
+327,null,null,Kaguya Hime (The Tale of the Bamboo Cutter)
+328,null,Maurice Sendak,Where the Wild Things Are
+329,null,Lucy Alibar,Juicy and Delicious
+330,null,Daniel Wallace,Big Fish
+331,null,Dick King-Smith,The Sheep Pig
+332,null,William Shakespeare,The Taming of the Shrew
+333,null,Pyotr Ilyich Tchaikovsky,Swan Lake
+334,null,Rudyard Kipling,The Cat that Walked by Himself
+335,null,null,The Little Red Hen
+336,null,null,Chicken Little
+337,null,Wilhelm Hauff,Der Zwerg Nase (Little Longnose)
+338,null,null,Baš Čelik
+339,552A,null,The Crystal Orb
+340,null,null,Three Blind Mice
+341,null,null,Jack and Jill
+343,null,Karel Jaromír Erben,null
+344,null,null,Saat Bhai Champa
+345,null,null,Why the Swallow Has the Tail with Little Horns
+346,null,J.K. Rowling,Harry Potter series
+347,null,Kate DiCamillo,The Tale of Despereaux
+348,null,Voltaire,Candide
+349,null,Lesya Ukrainka,Lisova pisnya
+350,null,Allan Knee,The Man Who Was Peter Pan
+352,null,Philippa Pearce,Tom's Midnight Garden
+353,null,Christianna Brand,Nurse Matilda
+354,null,Cornelia Funke,The Thief Lord
+355,null,Roald Dahl,Matilda
+356,null,Elizabeth Goudge,The Little White Horse
+357,null,Cornelia Funke,Inkheart
+358,null,C.S. Lewis,The Chronicles of Narnia
+359,null,Stephen King,null
+360,null,Johann Wolfgang von Goethe,Faust
+361,null,Christopher Marlowe,The Tragical History of Doctor Faustus
+362,null,Sergei Prokofiev,Petya i volk (Peter and the Wolf)
+363,null,Alexander Pushkin,Ruslan i Lyudmila
+364,null,Beatrix Potter,null
+365,null,Giambattista Basile,null
+367,null,Jan Werich,Fimfárum
+368,null,Otfried Preußler,Die kleine Hexe
+369,null,Jan Drda,Ceský Honza
+370,null,Bozena Nemcová,Sternberk
+371,null,Julius Zeyer,null
+372,null,Theodor Storm,Regentrude
+373,null,Božena Nemcová,Sol nad zlato
+376,null,Hans Christian Andersen,The Shadow
+377,null,Alexander Pushkin,The Tale of the Dead Princess
+378,null,Yury Olesha,The Three Fat Men
+379,123,null,The Wolf and the Seven Young Goats
+380,null,Italo Calvino,Il cavaliere inesistente
+381,null,Lewis Carroll,Through the Looking-Glass
+382,null,Ethel Pedley,Dot and the Kangaroo
+383,null,Diana Young,FernGully
+384,null,Shaun Tan,The Lost Thing
+385,null,Katherine Paterson,Bridge to Terabithia
+386,null,Tony DiTerlizzi and Holly Black,The Spiderwick Chronicles
+387,null,Olga Pouchine,Colargol
+388,null,Hans Christian Andersen,The Story of a Mother
+390,null,Edouard Laboulaye,null
+391,null,Hans Christian Andersen,The Flax
+392,null,Tove Jansson,The Moomins Series
+393,null,Kornel Makuszynski,The Two Who Stole the Moon
+394,null,Kornel Makuszynski,Przyjaciel wesołego diabła
+395,null,Wojciech Zukrowski,Porwanie w Tiutiurlistanie
+396,null,Janusz Korczak,Król Maciuś Pierwszy
+397,null,Walt Disney,null
+398,null,Georges Méliès,null
+399,null,Hans Christian Andersen,The Long Shadow
+400,null,Brian Selznick,The Invention of Hugo Cabret
+401,null,Charles Perrault,null
+402,null,Jacob and Wilhelm Grimm (Brothers Grimm),null
+405,null,Timothy Susanin,Walt Before Mickey
+406,1678,null,The Boy Who Had Never Seen a Woman
+407,null,Tarjei Vesaasa,The Birds
+408,null,null,Baba Yaga
+409,null,Jan Brzechwa,Akademia pana Kleksa
+410,null,Mbissane Ngom,Le Prix du Pardon
+411,null,Ousmane Sembène,Xala
+412,null,William Makepeace Thackeray,The Rose and the Ring
+413,null,Henryk Jerzy Chmielewski,"Tytus, Romek and A’Tomek"
+414,425A,null,The Animal as Bridegroom
+415,763,null,The Treasure Finders Who Murder One Another
+416,null,null,Chunhyangjeon
+417,null,null,Arang
+418,null,null,Fool Ondal and Princess Pyeonggang
+419,null,null,Janghwa Hongryeonjeon (The Story of Janghwa and Hongryeon)
+420,null,null,"Gumiho (The Fox with Nine Tails, Huli Jin, Kitsune Fox Spirit, Fox Fairy)"
+421,null,null,Gyeonu and Jiknyeo (The Weaver Girl and the Cowherd)
+423,null,Ho-sik Kim,My Sassy Girl (엽기적인 그녀)
+425,null,Chae-bong Jeong,Oseam
+426,null,null,Shimcheongjeon
+427,null,Monteiro Lobato,O Saci (The Saci)
+428,null,null,O Curupira (The Curupira)
+429,null,René Goscinny and Jean Tabary,Iznogoud
+430,null,Karel Jaromír Erben,Kytice
+431,null,null,Journey to the West
+432,null,null,Monkey King
+433,null,Geoffrey Chaucer,The Canterbury Tales
+434,null,Jan Drda,Zlaté kapradí
+435,null,Božena Nemcová,Slovenské pohádky a pověsti (Slovak Fairy Tales and Legends)
+436,null,Karel Havlícek Borovský,Král Lávra (King Lavra)
+437,null,Božena Nemcová,Sedmero krkavců (The Seven Ravens)
+438,null,Jan Drda,Nejkrásnejsí hádanka
+439,null,Alois Jirásek,Starých pověstí českých (Old Czech Legends)
+440,null,Karel Jaromír Erben,Zlatovláska
+441,null,null,Rusalka
+443,null,Karel Jaromír Erben,"Obušku, z pytle ven!"
+444,null,Karel Jaromír Erben,Tři zlaté vlasy děda Vševěda
+1434,null,Jurij Brezan,Die Schwarze Mühle
+1436,null,Bettina and Gisela von Arnim,Gritta von Rattenzuhausebeiuns
+1437,null,August Kopisch,Die Heinzelmännchen
+1438,null,Wilhelm Hauff,Der kleine Muck (The Story of Little Muck)
+1439,null,Michael Ende,Momo
+1440,null,Wolfgang Amadeus Mozart,The Magic Flute
+1441,null,Johannes Praetorius,Daemonologia Rubinzalii Silesii
+1442,null,null,"Momotaro or ""Peach Boy"""
+1443,null,null,Konjaku Monogatari
+1444,null,Oscar Wilde,The Selfish Giant
+1445,null,Astrid Lindgren,Bröderna Lejonhjärta
+1446,null,W. A. Frankonis,A Tale of Cinderella
+1447,null,Sverre Brandt,Reisen til julestjernen
+1448,null,Selma Lagerlöf,The Wonderful Adventures of Nils
+1449,null,Wilhelm Hauff,A Fairy Tale Told at Night
+1451,null,Stefan Wul,L'Orphelin de Perdide
+1452,null,Luigi Pirandello,La Balia
+1453,null,Günter Feustel,Die fliegende Windmühle
+1454,null,Wilhelm Hauff,The Young Englishman
+1455,null,Ludwig Bechstein,Der Hasenhüter und die Königstochter
+1456,null,E.T.A. Hoffmann,"Klein Zaches, genannt Zinnober"
+1457,null,Andrej Platanow,Die Schustersfrau als Zarin
+1459,null,Rainis (Janis Pliekšans),Zelta zirgs
+1460,null,J. R. R. Tolkien,The Lord of the Rings
+1461,null,Friedrich de la Motte Fouqué,Undine
+1462,null,null,Onibaba
+1463,null,Alan Snow,Here Be Monsters!
+1464,null,Hans Christian Andersen,Ole Lukøje
+1465,null,Mykhailo Kotsiubynsky,Shadows of Forgotten Ancestors
+1466,null,Christina Rossetti,Goblin Market
+1467,779H*,null,Star Money
+1468,null,Ueda Akinari,"Ugetsu monogatari, Tales of Moonlight and Rain"
+1469,null,Roald Dahl,The BFG
+1470,122E,null,Wait for the Fat Goat
+1472,null,Mary Norton,The Borrowers
+1473,null,Edgar Allan Poe,The System of Doctor Tarr and Professor Fether
+1474,null,Edgar Allan Poe,The Premature Burial
+1475,null,Lewis Carroll,The Hunting of the Snark
+1476,null,Wilhelm Hauff,"The Cold Heart, The Marble Heart"
+1477,null,Ivana Brlic–Mažuranic,Šuma Stribotrova
+1478,null,Ivana Brlic–Mažuranic,Bratac Jaglenac i sestrica Rutvica
+1479,null,Ivana Brlic–Mažuranic,Kako je Potjeh tražio istinu
+1480,null,"Ivana Brlic–Mažuranic ",Jagor
+1481,null,Francesca Lia Block,The Singing Bones
+1482,null,null,"Shahnameh, The Book of Kings"
+1483,851,null,The Princess Who Cannot Solve the Riddle
+1484,900C,null,The Half-Pear
+1485,null,Ghazaros Aghayan,Aregnazan
+1486,null,Johann Wolfgang von Goethe,The Erl-King
+1487,null,Ivana Brlic-Mažuranic,Regoč
+1488,null,Georgi Gospodinov,Blind Vaysha
+1489,null,Angela Carter,null
+1490,null,Wilhelm Hauff,Kalif Storch (Caliph Stork)
+1492,852,null,Lying Contest
+1493,null,null,"Hua Mulan, 花木兰"
+1496,null,Lilian Lee,"Ching Se,青蛇"
+1497,null,null,"White Snake, 白蛇传"
+1498,null,null,Reynard the Fox
+1499,null,Anton Siyanika,Mykyta Kozhumiaka
+1500,null,John Bellairs,null
+1501,null,null,"Masha and the Bear (Ма́ша и Медве́дь, Masha I Medved)"
+1502,275A,null,The Race between Hare and Tortoise
+1505,null,Hovhannes Tumanyan,Barekendan
+1506,null,Hovhannes Tumanyan,The Death of Kikos
+1507,null,Hovhannes Tumanyan,Liar
+1510,null,Vardan Aygektsi,Fox Book (Ahvesagirk)
+1512,null,Hovhannes Tumanyan,Dog and Cat
+1513,null,Hovhannes Tumanyan,Brother Ax
+1514,null,Hovhannes Tumanyan,The Liar Hunter
+1518,null,Vazha Pshavela,null
+1520,null,Otia Ioseliani,A Stranger in a Goat Herd
+1521,null,Evgeny Schwartz,The Ordinary Miracle
+1522,null,Evgeny Schwartz,The Dragon
+1524,null,Russell Hoban,The Marzipan Pig
+1525,null,Joann Sfar,Le Chat du Rabbin
+1526,null,Aleksandr Grin,Scarlet Sails
+1528,923,null,Love Like Salt
+1529,null,Julia Donaldson and Axel Scheffler,The Gruffalo's Child
+1530,null,Jill Murphy,The Worst Witch
+1531,null,Julia Donaldson,The Gruffalo
+1532,null,Giovanni Boccaccio,Decameron
+1533,null,Ivan Franko,The Painted Fox
+1534,null,Ivan Franko,null
+1536,null,Lesya Ukrainka,Trouble to Teach
+1537,null,E. Moshkovskaya,null
+1538,null,Vera Chapman,The King's Damsel
+1539,1651,null,Whittington's Cat
+1540,161A*,null,The Bear with the Wooden Leg
+1541,null,Oscar Asche,Chu Chin Chow
+1542,1920,null,Contest in Lying
+1543,null,Samuil Marshak,null
+1544,425B,null,Son of the Witch (Cupid and Psyche)
+1545,425E,null,The Enchanted Husband Sings Lullaby
+1546,425M,null,The Snake as Bridegroom
+1547,null,Helga Brehme,null
+1548,null,Willi Meinck,null
+1549,null,Theodor Storm,null
+1550,null,Jirí Marek,null
+1551,465,null,"The Man Persecuted Because of His Beautiful Wife "
+1552,null,E.T.A. Hoffmann,The Golden Pot
+1553,470B,null,The Land Where No One Dies
+1554,681,null,Relativity of Time
+1555,155,null,Ingratitude is the World's Reward
+1556,null,Wilhelm Hauff,Das Wirtshaus im Spessart (The Spessart Inn)
+1557,null,null,"The Butterfly Lovers, 梁山伯与祝英台"
+1558,null,null,Nezha
+1559,null,Oscar Wilde,The Nightingale and the Rose
+1560,null,Oscar Wilde,The Happy Prince
+1561,null,Oscar Wilde,The Devoted Friend
+1562,null,Oscar Wilde,The Remarkable Rocket
+1563,null,Oscar Wilde,A House of Pomegranates
+1564,null,Oscar Wilde,The Young King
+1565,null,Oscar Wilde,The Birthday of the Infanta
+1566,null,Oscar Wilde,The Fisherman and his Soul
+1567,null,Oscar Wilde,The Star-Child
+1568,null,George MacDonald,null
+1569,null,Hans Christian Andersen,The Last Pearl
+1570,null,Hans Christian Andersen,The Will-o'-the-Wisps Are in Town
+1571,null,Hans Christian Andersen,The Goblin and The Grocer
+1572,null,Hans Christian Andersen,The Silent Book
+1573,null,Hans Christian Andersen,The Money Pig
+1574,null,Hans Christian Andersen,The Bell
+1575,null,Hans Christian Andersen,Ib and Little Christina
+1576,1535,null,The Rich and the Poor Farmer
+1577,null,Wilhelm Hauff,The Story of the False Prince
+1578,null,Richard LaGravenese,null
+1579,330,null,The Smith and the Devil
+1580,101,null,The Old Dog as Rescuer of the Child (Sheep)
+1581,null,Cornelia Funke,Dragon Rider
+1582,null,null,Hanasaka Jiisan (The Story of the Old Man Who Made Withered Trees to Blossom)
+1583,null,null,"Kachi-kachi Yama (Kachi Kachi Mountain, or Fire-Crackle Mountain)"
+1584,null,null,Saru Kani Gassen (The Crab and the Monkey)
+1586,null,Jan Drda,"O princezně Jasněnce a ševci, který létal"
+1587,null,Hans Christian Andersen,The Flying Trunk
+1588,782,null,Midas and the Donkey's Ears
+1589,null,A.S. Byatt,The Djinn in the Nightingale's Eye
+1590,52,null,Donkey Without a Heart
