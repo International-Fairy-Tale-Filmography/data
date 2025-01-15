@@ -1,309 +1,309 @@
 FilmId,Title,OtherTitle,Color,ReleaseYear,Duration,Mode,Comment,Published
-306,Alice in Wonderland 2,,C,1986,120,L,"This ran as four 30 minutes episodes, so I've totalled them. Is that correct?",True
-305,Alice in Wonderland,,C,1985,187,L,,True
-304,Alice,Alicja,C,1982,90,L,,True
-303,Alice in Wonderland or What's a Nice Kid Like You Doing in a Place Like This?,What's a Nice Kid Like You Doing in this Place?,C,1966,60,A,"The title is listed in the Enchanted Screen filmo as ""Alice in Wonderland, or What's a Nice Kid Like You Doing in this Place?"" but I've separated the two parts of the title. Is that correct? Also, IMDb lists the title as ""Alice in Wonderland, or What's a Nice Kid Like You Doing in a Place Like This?"" and I'm wondering if someone can confirm that the Enchanted Screen listing is in fact the correct title.",True
-302,Alice in Wonderland,,BW,1966,72,L,,True
-301,Alice in Wonderland,Hallmark Hall of Fame: Alice in Wonderland,BW,1955,74,L,"I couldn't find company info, and I'm not sure of the mode - I think it is live but I can't find confirmation other than poorly-labeled YouTube videos.
-AM: Definitely live. Also black and white, updated May 27, 2021. ",True
-300,Alice in Wonderland,,C,1951,75,A,,True
-299,Alice in Wonderland,,C,1949,76,M,https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1949_film),True
-298,Alice in Wonderland,,BW,1937,30,L,,True
-297,Alice in Wonderland,,BW,1933,76,M,https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1933_film),True
-296,Alice in Wonderland,,BW,1931,55,L,https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1931_film),True
-295,Alice in Wonderland,,BW,1915,52,L,,True
-294,The Wolves of Kromer,,C,1998,82,L,,True
-293,The Woodsman,,C,2004,87,L,,True
-292,Year of the Fish,,C,2007,96,M,,True
-291,Fantastic Mr. Fox,,C,2009,87,A,,True
-290,Na-moo-eobs-neun san,Treeless Mountain,C,2008,89,L,,True
-289,Hanna,,C,2011,111,L,"Ok, sometimes it seems like people can see whatever fairy tale they want. Skrodzka, A. 2015 Cinematic Fairy Tales of Female Mobility in Post-Wall Europe: Hanna v. Mona, in East, West and Centre: Reframing Post 1989 European Cinema, eds. M Gott & T. Herzog, 109-126. Edinburgh: Edinburgh UP.  says it's Snow White
-Kelly Oliver
-Hunting Girls: Sexual Violence from The Hunger Games to Campus Rape
-New York: Columbia University Press, 2016",True
-288,Tuvalu,,C,1999,101,L,,True
-287,Woodenhead,,BW,2003,90,L,,True
-286,ParaNorman,,C,2012,92,A,,True
-285,Rekopis znaleziony w Saragossie,The Saragossa Manuscript,BW,1965,175,L,,True
-284,Lady Oscar,,C,1979,124,L,,True
-283,A Wicked Tale,,C,2005,45,L,"
+35,The Juniper Tree,23,BW,1992,78,L,,True
+36,Le piège d'Issoudun,Juniper Tree,C,2003,85,L,,True
+37,Priklyucheniya Buratino,"The Adventures of Buratino, Pinocchio and the Golden Key",C,1960,67,A,,True
+38,Beauty and the Beast,,C,1991,84,A,,True
+39,Beauty and the Beast,,C,1992,67,A,,True
+40,Beauty and the Beast,,BW,1992,4,L,"Jack:  Corrections (on basis of film/film credits on YouTube): black and white, live
+		writers - Eric Hammer and Ben Edlund
+Missing: Camera, producers",True
+47,Beauty and the Beast: The Enchanted Christmas,Beauty and the Beast 2,C,1997,72,A,"Jack:
+Missing:
+	Camera
+	Producers",True
+49,Belle's Magical World,Beauty and the Beast: Belle's Magical World,C,1998,92,A,"Jack:
+Missing: Camera
+Queries: IMDB lists the title as Belle’s Magical World, while Wikipedia lists it as Beauty and the Beast: Belle’s Magical World (much like the second Disney Beauty and the Beast film, LVD 1-9) - please confirm how you would like this listed
 ",True
-282,Were the World Mine,,C,2008,95,L,,True
-281,Rebecca,,BW,1940,130,L,"In Tatar's Secrets ",True
-280,Little Erin Merryweather,,C,2003,84,L,,True
-279,Red Riding Hood,,C,2003,93,L,,True
-278,Red Riding: The Year of our Lord 1980,Red Riding Trilogy,C,2009,93,L,,True
-277,Red Riding: The Year of Our Lord 1983,Red Riding Trilogy,C,2009,100,L,,True
-276,Red Riding: In the Year of Our Lord 1974,The Red Riding Trilogy,C,2009,102,L,,True
-275,Rotkäppchen: The Blood of Red Riding Hood,,C,2009,105,L,what a piece of crap,True
-274,Rumpelstiltskin,,C,1995,87,L,,True
-273,Shôjo kakumei Utena: Adolescence mokushiroku,"Revolutionary Girl Utena: The Movie, 少女革命ウテナ",C,1999,100,A,,True
-272,Sydney White,Sydney White and the Seven Dorks,C,2007,108,L,,True
-271,La belle endormie,The Sleeping Beauty,C,2010,82,L,,True
-270,Slumdog Millionaire,,C,2008,121,L,,True
-269,Ondine,,C,2009,103,L,,True
-268,Pan's Labyrinth,El laberinto del fauno,C,2006,118,L,,True
-267,Pinocchio 3000,,C,2004,80,A,,True
-266,Kvitebjørn Kong Valemon,The Polar Bear King,C,1991,88,L,,True
-265,Gake no ue no Ponyo,"Ponyo, Ponyo on the Cliff by the Sea",C,2008,101,A,,True
-264,Otesánek,"Little Otik, Greedy Guts",C,2000,126,M,,True
-263,Rusalka,"Mermaid, Русалка",C,2007,100,L,,True
-262,Mirrormask,,C,2005,104,M,,True
-261,Mutzmag: An Appalachian Folktale,From the Brothers Grimm,C,1992,53,L,,True
-260,Neverland,,C,2011,180,L,other Nick Willing series in ES,True
-259,Hoodwinked!,Hoodwinked,C,2005,80,A,,True
-258,Hauru no ugoku shiro,Howl's Moving Castle,C,2004,119,A,,True
-257,How to Train Your Dragon,,C,2010,98,A,,True
-256,"I, Robot",,C,2004,115,L,,True
-254,Promenons-nous dans les bois,Deep in the Woods,C,2000,87,L,,True
-253,Peau d'âne,Donkey Skin,C,1970,89,L,,True
-252,Zui xiong,Fairy Tale Killer,C,2012,90,L,,True
-250,Freeway,,C,1996,102,L,,True
-249,Grimm,,C,2003,103,L,,True
-248,Henjel gwa Geuretel,"Hansel and Gretel, 헨젤과 그레텔",C,2007,117,L,"Phil-sung on DVD
-Byeongwoo on DVD
-Jeong-myoung",True
-247,Puss In Boots,,C,2011,90,A,,True
-246,The Pied Piper,,C,1972,90,L,,True
-245,Kaidan,"Kwaidan, Ghost Stories, 怪談",C,1964,125,L,,True
-244,Deutschland bleiche Mutter,"Germany, Pale Mother",C,1980,123,L,,True
-243,The Golden Compass,,C,2007,113,L,,True
-242,The Snow Queen,Faerie Tale Theatre,C,1985,49,L,,True
-241,Hansel & Gretel: An Appalachian Version,"From the Brothers Grimm, Hansel & Gretel",C,1977,16,L,"https://www.folkstreams.net/film-detail.php?id=465
+50,Blanche Neige: La Suite,"Snow White: The Sequel; Blanche Neige, la suite",C,2007,82,A,,True
+53,"Le chien, le général et les oiseaux","The Dog, the General, and the Birds",C,2003,75,A,,True
+54,Baron Prásil,"Baron Münchhausen, The Fabulous Baron Munchausen, The Great Baron",C,1961,83,M,,True
+55,Faeries,,C,1999,77,A,"Jack:
+Missing: Tale Title and Author (is this based on something?)
+Queries: 1) 2005 release date listed in filmography doc does not correspond to IMDB listing (1999). Please confirm correct date. 2) Run time in doc (77 min) does not correspond to IMDB (90 min). Please confirm.",True
+56,Gandahar,Light Years,C,1988,83,A,OK PG,True
+57,Zolotaya antilopa,"The Golden Antelope, Fairy Tales from Far Off Lands",C,1954,31,A,,True
+58,Skazka o zolotom petushke,"The Golden Rooster, The Tale of the Golden Cockerel",C,1967,30,A,OK PG,True
+59,Happily N'Ever After,,C,2006,75,A,,True
+60,Konyok-gorbunok,"The Humpbacked Horse, Konjok Gorbunok, Das bucklige Pferdchen, Ivan and His Magic Pony (orig. 1947)",C,1975,73,A,"The Humpbacked Horse
+Added: Tale Title - The Little Humpbacked Horse (http://en.wikipedia.org/wiki/Pyotr_Pavlovich_Yershov)
+	Producer - Boris Wolf (http://en.wikipedia.org/wiki/The_Humpbacked_Horse_(film))
+Queries: The author listed is Petr Erschov, but the Wikipedia page about the film suggests that the tale author is Pyotr Pavlovich Yershov. I’m not sure if these are alternate spellings of the same name or if they are different authors. Please confirm. Also, two dates are listed. According to Wikipedia, the second date was a remake by the same director. Do you want them listed together as they are now or separately, one for each date?",True
+61,Jin-Roh: The Wolf Brigade,,M,1999,105,A,OK PG,True
+62,Posledniy lepestok,"The Last Petal, Poslednu Lepestok",C,1977,27,A,"The Last Petal
+Added: IMDB - http://www.imdb.com/title/tt0761878/
+Missing: Tale title
+Queries: Date listed does not match IMDB. I have also found different information re: camera, music, and producers on IMDB. Please confirm. ",True
+63,Kakhardakan gorg,The Magic Carpet,C,1948,37,A,,True
+64,Tayna tretey planety,The Mystery of the Third Planet,C,1981,48,A,,True
+65,Mari iyagi,My Beautiful Girl Mari,C,2002,86,A,"Jack:
+Spelling Corrections: Director - Sung-gang Lee (http://www.kmdb.or.kr/eng/mm_basic.asp?person_id=00017592, Wikipedia, IMBD)",True
+66,Elmer no boken,"My Father’s Dragon, Elmer et le dragon",C,1997,87,A,OK PG,True
+67,1001 Arabian Nights,"The Adventures of Aladdin, Les Aventures d'Aladin",C,1959,75,A,OK-pg.,True
+68,Skazka o tsare Saltanye,"The Prince, the Swan, and the Czar Saltan, The Tale of Czar Saltan, The Czar Saltan and the Wonder Island, The Tale of Tsar Saltan, Skaska O Zare Saltane, Zar Saltan und die Wunderinsel",C,1984,69,A,OK PG,True
+69,Bajaja,Prince Bajaja,C,1950,81,A,OK PG,True
+70,Prince Cinders,,C,1993,30,A,PG OK,True
+71,The Princess and the Frog,,C,2009,97,A,OK PG,True
+72,Alenkiy tsvetochek,"The Scarlet Flower, Beauty and the Beast, Beauty and the Beast: A Tale of the Crimson Flower",C,1952,42,A,OK pg,True
+73,Shrek,,C,2001,93,A,,True
+74,Shrek 2,,C,2004,92,A,OK PG,True
+75,The Ugly Duckling (Silly Symphonies),,C,1939,9,A,,True
+76,The Brave Little Tailor (Mickey Mouse),,C,1938,,A,,True
+77,Three Little Wolves (Silly Symphonies),,C,1936,9,A,,True
+78,The Golden Touch (Silly Symphonies),,C,1935,10,A,,True
+79,The Flying Mouse (Silly Symphonies),,C,1934,,A,,True
+80,The Big Bad Wolf (Silly Symphonies),,C,1934,9,A,"https://www.youtube.com/watch?v=e4Lx5Bmpojw
 ",True
-240,Little Red Riding Hood,Faerie Tale Theatre,C,1983,47,L,,True
-239,Rumpelstiltskin,Faerie Tale Theatre,C,1982,40,L,IN ES,True
-238,Rapunzel,Faerie Tale Theatre,C,1983,51,L,In ES,True
-237,Hansel and Gretel,Faerie Tale Theatre,C,1983,51,L,in Zipes ES,True
-236,Hansel & Gretel,,C,2013,90,L,,True
-235,Hansel & Gretel,,C,2002,89,L,,True
-234,Beauty and the Beast,Beauty and the Beasts: A Dark Tale,C,2009,90,L,,True
-233,Milchwald,In This Very Moment,C,2003,87,L,,True
-232,Ehky ya Scheherazade,"Scheherazade, Tell Me a Story, Eḥkī yā Shahrazād",C,2009,134,L,,True
-231,964 Pinocchio,Screams of Blasphemy,C,1991,97,L,IMDb says Hagi Suzuki and Onn-chan; my names from DVD PG,True
-230,Neco z Alenky,Alice,C,1988,84,L,,True
-229,Barbe bleue,Bluebeard,C,2009,80,L,,True
-228,Shahrazad,,C,1946,,U,"I can't find any record of this film (except maybe some in languages I can't read, but I'm not even sure if they were about the film). I've added the info Jack had in the Enchanted Screen filmo. Is that enough?",True
-227,Sin-de-rel-la,Cinderella,C,2006,94,L,,True
-226,Beastly,,C,2011,86,L,,True
-225,Coraline,,C,2009,101,A,,True
-224,Corpse Bride,,C,2005,77,A,,True
-223,Dancehall Queen,,C,1997,98,L,,True
-222,Hansel & Gretel: Warriors of Witchcraft,,C,2013,83,L,a complete fucking waste of a million dollars; 83 minutes too long,True
-221,Happily N'Ever After 2,Snow White: Another Bite at the Apple,C,2009,75,A,,True
-219,Outremer,Overseas,C,1990,96,L,,True
-218,Mononoke-hime,Princess Mononoke,C,1997,134,A,,True
-217,Time Bandits,,C,1981,110,L,,True
-216,The Wizard of Oz,,M,1939,102,L,,True
-215,The Nightmare Before Christmas,,C,1993,76,A,,True
-214,Whoever Slew Auntie Roo?,Who Slew Auntie Roo?,C,1972,91,L,,True
-213,The Wonderful World of the Brothers Grimm,,C,1962,135,L,,True
-212,The North Wind and the Sun,,C,1972,2,A,,True
-211,Little Red Riding Hood,,C,1969,5,A,,True
-210,The Lion and the Mouse,,C,1976,4,A,,True
-209,The Bear and the Mouse,,C,1966,7,L,,True
-208,The Town Mouse and the Country Mouse,Le rat de maison et le rat des champs,C,1980,5,A,,True
-207,Paradise,,C,1984,15,A,Kind of Andersen?,True
-206,L'été de Boniface,Bonifacio in Summertime,C,2011,26,A,,True
-205,The Little Mermaid,,C,1974,26,A,,True
-204,Den standhaftige tinnsoldat,The Steadfast Tin Soldier,C,1955,13,M,Changed to animated/live - archive.org video shows live action intro switches to animation,True
-203,Suckathumb,,C,2010,10,M,,True
-202,River,,C,2008,21,L,,True
-201,Red,,C,2010,10,A,,True
-200,Red Shoes,,C,2009,11,L,https://www.youtube.com/watch?v=LC3Nenrbc9s,True
-199,Rainbow War,,C,1985,20,L,,True
-198,Mirror Mirror,,C,2012,105,L,,True
-197,"Know, I am You",,C,2007,11,M,,True
-196,Hey Cinderella!,,C,1969,52,L,,True
-195,Hansel and Stella,,C,2007,4,L,,True
-194,The Beast of Dulle Griet,,C,2004,15,L,,True
-193,Tideland,,C,2005,121,L,,True
-192,Neverwas,,C,2005,103,L,,True
-191,The Marsh,,C,2006,92,L,Reference to Brothers Grimm,True
-190,Alice,,C,2009,184,L,"NOT in ES, but given that Willing's other miniseries is....PG",True
-189,Tin Man,,C,2007,270,L,TV miniseries but discussed in ES,True
-188,Čudnovate zgode šegrta Hlapića,"Lapitch, The Little Shoemaker",C,1997,75,A,,True
-187,"Good Night, Sleep Tight",,C,2006,5,M,,True
-186,Confessions of an Ugly Stepsister,,C,2002,90,L,mentioned in ES,True
-185,Red Riding Hood,,C,2011,100,L,ick,True
-184,Freeway 2: Confessions of a Trickbaby,Freeway II: Confessions of a Trickbaby,C,1999,97,L,some filming in Canada,True
-183,Deeply,,C,2000,101,L,fantasy?,True
-182,Jacob Two-Two Meets the Hooded Fang,,C,1978,81,L,,True
-181,Jacob Two Two Meets the Hooded Fang,,C,1999,96,L,my call PG,True
-180,I Was A Rat,,C,2001,90,L,,True
-179,The Old Woman in the Woods,,C,2012,25,M,copyright date on my DVD says 2012 IMDb 2013 PG; not sure if it's close enough to ATU 442,True
-178,Snow White: The Fairest of Them All,"Snow White, Snow White and the Seven Bachelors, Snow White and the 7 Bachelors, Snow White and the Seven Old Bachelors",C,2001,93,L,TV movie,True
-176,Alice in Wonderland,Alice's Adventures in Wonderland,C,1903,8,L,,True
-175,The Tender Tale of Cinderella Penguin,,C,1981,9,A,,True
-174,Sleeping Betty,Isabelle au bois dormant,C,2007,9,A,,True
-173,Babine,,C,2008,112,L,,True
-172,Felicia's Journey,,C,1999,116,L,,True
-171,The Sweet Hereafter,,C,1997,177,L,,True
-170,Rupan sansei: Kariosutoro no shiro,The Castle of Cagliostro,C,1979,110,A,,True
-169,Tenkû no shiro Rapyuta,Castle in the Sky,C,1986,126,A,Distributed by Toei Company and Walt Disney Pictures.,True
-168,Drengen derville gore det unmulige,The Boy Who Wanted to Be a Bear,C,2002,75,A,,True
-167,Shisha no sho,The Book of the Dead,C,2005,70,M,stop motion animation feature.,True
-166,Blood Tea and Red String,,C,2006,71,M,"Stop-Motion Animation; dialogue free (but not a silent film). ",True
-165,Azur et Asmar,Azur & Asmar: The Princes' Quest,C,2007,99,A,,True
-164,Arabian naito: Shindobaddo no bôken,Arabian Nights: The Adventures of Sinbad,C,1962,81,A,,True
-163,"Saiyu-ki, Saiyûki",Alakazam the Great!,C,1960,88,A,,True
-162,Aladdin,,C,1992,90,A,,True
-160,"The Wizard, the Prince and the Good Fairy","Le Sorcier, le Prince et le Bon Genie; The Sorcerer, the Prince, and the Good Fairy",BW,1900,2,L,,True
-159,Le Rêve du Radjah ou La Forêt Enchantée,"The Rajah's Dream or The Bewitched Wood; Oh! What a Night; or, The Sultan's Dream",BW,1900,3,L,https://www.youtube.com/watch?v=G3HlpRjrtR0,True
-158,La Pierre Philosophale,"The Philosopher's Stone, The Miser's Dream",BW,1899,1,U,silent,True
-157,Cendrillon,Cinderella,M,1899,6,L,"silent, hand-colored",True
-156,Cinderella and the Fairy Godmother,Cinderella,BW,1898,1,L,"Silent Film
-Trick film
-Presumed lost
-https://letterboxd.com/film/cinderella-1898/details/ ",True
-155,Barbe-bleue,Blue Beard,BW,1897,2,L,Silent,True
-153,Le Manoir du Diable,"The House of the Devil, The Devil's Castle, The Haunted Castle",BW,1896,3,L,,True
-152,Bluebeard Jr.,,BW,1922,,L,"IMDb doesn't state whether it is live or not, but there is no option to leave out the mode. It is a silent film, so I left language blank.",True
-151,Bluebeard,,C,1972,125,L,IMDB also lists West Germany as a location - should we enter Germany or create a new country?,True
-150,Landru,Bluebeard,C,1963,115,L,,True
-149,Bluebeard,,BW,1944,72,L,,True
-148,Barbe-bleue,Bluebeard,BW,1907,,L,"There was no option to not select a mode, so it is listed as live. I couldn't find anything to indicate whether that is accurate.",True
-147,Barbe-bleue,Bluebeard,BW,1901,9,L,I didn't add a language because it's a silent film - is that correct?,True
-145,Oslinaya shkura,"Oslinaja schkura, The Donkey's Hide, The Princess with the Donkey Skin, Die Prinzessin mit der Eselsbaut",C,1982,85,L,,True
-144,La belle et la bête,Beauty and the Beast,BW,1946,96,L,,True
-143,Dick Whittington's Cat,,C,1936,8,A,,True
-142,Tom Thumb,,C,1936,7,A,,True
-141,Ali Baba,,C,1936,7,A,"Origin needs to be ATU 954 The Forty Thieves (Ali Baba)
-",True
-140,Balloonland,"The Pincushion Man, Balloon Land",C,1935,7,A,"Jack:  IMDb lists title as ""Balloon Land"" - please confirm",True
-139,Sinbad the Sailor,,C,1935,7,A,"Jack--Listed origin as One Thousand and One Nights, though this is disputed (see http://en.wikipedia.org/wiki/Sinbad_the_Sailor#Origins_and_sources) - please confirm
-",True
-138,Bremen Town Musicians,The Brementown Musicians,C,1935,9,A,"Jack:  IMDB lists title as ""The Brementown Musicians"" - please confirm",True
-137,Aladdin and his Wonderful Lamp,,C,1934,8,A,"Jack:  IMDB lists title as ""Aladdin and the Wonderful Lamp"" - please confirm
-
-",True
-136,Puss in Boots,,C,1934,7,A,OK PG,True
-135,The Brave Tin Soldier,,C,1934,8,A,OK PG,True
-134,Jack and the Beanstalk,,C,1933,8,A,"OK PG
-",True
-133,The Wizard of Ants,,BW,1941,7,A,"Jack: IMDB and the Youtube version I have found both list the title as ""The Wizard of Arts"" - please confirm
-
-IMDB lists as colour, Youtube version is B&W, please confirm",True
-132,Betty Boop and the Little King,Betty Boop,BW,1936,7,A,"Jack:  Unsure of origin, but it appears that the character of the king might be credited to someone named Oscar Soglow, who is listed as a writer on the IMDB page. It does not say whether he wrote the screenplay or an original piece that influenced this short. How should I list this, if at all? Here is the place where I found that information: http://books.google.ca/books?id=MdGoAAAAQBAJ&pg=PA116&lpg=PA116&dq=oscar+e+soglow&source=bl&ots=oBFezqmXX3&sig=7vtv6V0n4D9pi39vLo8sGizgi5Y&hl=en&sa=X&ei=QmRbUvuKMY3HqQHeiYHADQ&ved=0CFkQ6AEwCQ#v=onepage&q=oscar%20e%20soglow&f=false (it's on page 116)",True
-131,Little Dutch Mill,,C,1934,9,A,OK PG,True
-130,Poor Cinderella,Betty Boop,C,1934,11,A,,True
-129,Betty in Blunderland,Betty Boop,BW,1934,7,A,,True
-128,Snow-White,"Snow White, Betty Boop",BW,1933,7,A,,True
-127,Dizzy Red Riding-Hood,Dizzy Red Riding Hood; Talkatoon (Betty Boop),BW,1931,6,A,,True
-126,Jack and the Beanstalk,Talkatoon (Betty Boop),BW,1931,7,A,,True
-124,Kdopak by se vlka bál,Who's Afraid of the Wolf,C,2008,90,L,,True
-123,Mother Goose Land,"Out of the Inkwell, Betty Boop",BW,1933,7,A,"Jack:  IMDB also says 1933
-Questions: Wikipedia suggests this was released in 1933, not 1925. Change?",True
-121,Lumikuningatar,The Snow Queen,C,1986,90,L,,True
-120,The Snow Queen,,C,2005,56,M,,True
-119,Hans Christian Andersen:  My Life as a Fairytale,,C,2003,176,L,,True
-117,Snow Queen,,C,2002,180,L,,True
-116,Blind,,C,2007,99,L,,True
-115,Hans Christian Andersen,,C,1952,112,L,,True
-114,The Red Hood,,C,2009,9,L,,True
-113,The Snow Queen,,C,2005,11,L,"https://www.winnipegfilmgroup.com/films/snow-queen-the/
-",True
-112,H & G,H and G,C,2013,95,L,,True
-111,Three Little Pigs (Silly Symphonies),,C,1933,8,A,,True
-110,Babes in the Woods (Silly Symphonies),,C,1932,8,A,"Jack? Missing: Cast, producer, camera, music, writer
-",True
-109,The Ugly Duckling (Silly Symphonies),,BW,1931,7,A,"OK PG
-https://en.wikipedia.org/wiki/The_Ugly_Duckling_(1931_film)",True
-108,The Merry Dwarfs (Silly Symphonies),,BW,1929,,A,,True
-107,"Cinderella ",The Slipper-y Kid,BW,1922,7,A,OK PG,True
-106,Jack and the Beanstalk,,BW,1922,,A,OK-PG,True
-105,Puss in Boots,,BW,1922,9,A,OK PG,True
-104,Little Red Riding Hood,,BW,1922,6,A,OK PG,True
-103,The Four Musicians of Bremen,,BW,1922,,A,OK PG,True
-102,Duty and the Beast,,BW,1943,6,A,"https://www.bcdb.com/cartoon/978-Duty-And-The-Beast
-https://www.dailymotion.com/video/x7z5u6w",True
-101,Willoughby’s Magic Hat,,BW,1943,7,A,,True
-100,Cinderella Goes to a Party,,C,1942,,A,"Jack:  Queries: Director listed is Frank Tashlin, but director according to IMDB is Alec Geiss. Please confirm.
-
-https://www.bcdb.com/cartoon/992-Cinderella-Goes-To-A-Party
-https://letterboxd.com/film/cinderella-goes-to-a-party/
-https://www.youtube.com/watch?v=95IHvlNKkCM",True
-99,Wolf Chases Pigs,,C,1942,,A,"Jack: Is this The Three Little Pigs? I couldn’t find a synopsis but that’s what the title sounds like. Also, the director is listed as Frank Tashlin but according to IMDB is Bob Wichersham. Please confirm.",True
-98,Red Riding Hood Rides Again,,C,1941,7,A,OK PG,True
-97,"Playing the Pied Piper ",,BW,1941,,A,"Jack:
-	Tale Title - The Pied Piper of Hamelin (IMDB)",True
-96,Tom Thumb’s Brother,,C,1941,7,A,,True
-95,The Wolf at the Door,Scrappy,BW,1932,,A,,True
-94,Cinderella,Krazy Kat,C,1930,8,A,OK PG,True
-93,Wizards,,C,1977,80,A,,True
-92,Dikie Lebedi,The Wild Swans,C,1962,57,A,,True
-91,Twice Upon a Time,,C,1983,77,A,,True
-90,12 mesyatsev,"The Twelve Months, Dvenadtsat mesyatsev, The Twelve Months: A Winter Fairy Tale, Двенадцать месяцев",C,1956,55,A,,True
-89,Pohádky tisíce a jedné noci,"A Thousand and One Nights, 1001 Nights",C,1974,88,A,OK-pg.,True
+81,Giantland (Mickey Mouse),Mickey and the Giant,BW,1933,8,A,"OK-PG
+https://letterboxd.com/film/giantland/",True
+82,The Pied Piper (Silly Symphonies),,C,1933,7,A,,True
+83,Shrek the Third,,C,2007,92,A,OK PG,True
+84,Snegurochka,The Snow Maiden,C,1952,67,A,OK PG,True
+85,Snezhnaya koroleva,The Snow Queen,C,1957,74,A,OK PG,True
+86,Čarodějův učeň aka Krabat,"Carodejuv ucen, The Sorcerer’s Apprentice, Krabat: The Sorcerer's Apprentice",C,1978,73,A,,True
+87,Hakuja den,"The Tale of the White Serpent, Panda and the Magic Serpent, Le Serpent Blanc, The White Snake Enchantress",C,1958,79,A,"IMDB says ""Panda and the Magic Serpent""",True
 88,Tatsu no ko Tarô,Taro the Dragon Boy,C,1979,75,A,"Taro The Dragon Boy
 Added: Company - Toei Animation (IMDB)
 	Tale Title - Tatsu no ko Taro (IMDB)
 	IMDB - http://www.imdb.com/title/tt0061069/
 Missing: Camera
 Queries: Unable to confirm producer",True
-87,Hakuja den,"The Tale of the White Serpent, Panda and the Magic Serpent, Le Serpent Blanc, The White Snake Enchantress",C,1958,79,A,"IMDB says ""Panda and the Magic Serpent""",True
-86,Čarodějův učeň aka Krabat,"Carodejuv ucen, The Sorcerer’s Apprentice, Krabat: The Sorcerer's Apprentice",C,1978,73,A,,True
-85,Snezhnaya koroleva,The Snow Queen,C,1957,74,A,OK PG,True
-84,Snegurochka,The Snow Maiden,C,1952,67,A,OK PG,True
-83,Shrek the Third,,C,2007,92,A,OK PG,True
-82,The Pied Piper (Silly Symphonies),,C,1933,7,A,,True
-81,Giantland (Mickey Mouse),Mickey and the Giant,BW,1933,8,A,"OK-PG
-https://letterboxd.com/film/giantland/",True
-80,The Big Bad Wolf (Silly Symphonies),,C,1934,9,A,"https://www.youtube.com/watch?v=e4Lx5Bmpojw
+89,Pohádky tisíce a jedné noci,"A Thousand and One Nights, 1001 Nights",C,1974,88,A,OK-pg.,True
+90,12 mesyatsev,"The Twelve Months, Dvenadtsat mesyatsev, The Twelve Months: A Winter Fairy Tale, Двенадцать месяцев",C,1956,55,A,,True
+91,Twice Upon a Time,,C,1983,77,A,,True
+92,Dikie Lebedi,The Wild Swans,C,1962,57,A,,True
+93,Wizards,,C,1977,80,A,,True
+94,Cinderella,Krazy Kat,C,1930,8,A,OK PG,True
+95,The Wolf at the Door,Scrappy,BW,1932,,A,,True
+96,Tom Thumb’s Brother,,C,1941,7,A,,True
+97,"Playing the Pied Piper ",,BW,1941,,A,"Jack:
+	Tale Title - The Pied Piper of Hamelin (IMDB)",True
+98,Red Riding Hood Rides Again,,C,1941,7,A,OK PG,True
+99,Wolf Chases Pigs,,C,1942,,A,"Jack: Is this The Three Little Pigs? I couldn’t find a synopsis but that’s what the title sounds like. Also, the director is listed as Frank Tashlin but according to IMDB is Bob Wichersham. Please confirm.",True
+100,Cinderella Goes to a Party,,C,1942,,A,"Jack:  Queries: Director listed is Frank Tashlin, but director according to IMDB is Alec Geiss. Please confirm.
+
+https://www.bcdb.com/cartoon/992-Cinderella-Goes-To-A-Party
+https://letterboxd.com/film/cinderella-goes-to-a-party/
+https://www.youtube.com/watch?v=95IHvlNKkCM",True
+101,Willoughby’s Magic Hat,,BW,1943,7,A,,True
+102,Duty and the Beast,,BW,1943,6,A,"https://www.bcdb.com/cartoon/978-Duty-And-The-Beast
+https://www.dailymotion.com/video/x7z5u6w",True
+103,The Four Musicians of Bremen,,BW,1922,,A,OK PG,True
+104,Little Red Riding Hood,,BW,1922,6,A,OK PG,True
+105,Puss in Boots,,BW,1922,9,A,OK PG,True
+106,Jack and the Beanstalk,,BW,1922,,A,OK-PG,True
+107,"Cinderella ",The Slipper-y Kid,BW,1922,7,A,OK PG,True
+108,The Merry Dwarfs (Silly Symphonies),,BW,1929,,A,,True
+109,The Ugly Duckling (Silly Symphonies),,BW,1931,7,A,"OK PG
+https://en.wikipedia.org/wiki/The_Ugly_Duckling_(1931_film)",True
+110,Babes in the Woods (Silly Symphonies),,C,1932,8,A,"Jack? Missing: Cast, producer, camera, music, writer
 ",True
-79,The Flying Mouse (Silly Symphonies),,C,1934,,A,,True
-78,The Golden Touch (Silly Symphonies),,C,1935,10,A,,True
-77,Three Little Wolves (Silly Symphonies),,C,1936,9,A,,True
-76,The Brave Little Tailor (Mickey Mouse),,C,1938,,A,,True
-75,The Ugly Duckling (Silly Symphonies),,C,1939,9,A,,True
-74,Shrek 2,,C,2004,92,A,OK PG,True
-73,Shrek,,C,2001,93,A,,True
-72,Alenkiy tsvetochek,"The Scarlet Flower, Beauty and the Beast, Beauty and the Beast: A Tale of the Crimson Flower",C,1952,42,A,OK pg,True
-71,The Princess and the Frog,,C,2009,97,A,OK PG,True
-70,Prince Cinders,,C,1993,30,A,PG OK,True
-69,Bajaja,Prince Bajaja,C,1950,81,A,OK PG,True
-68,Skazka o tsare Saltanye,"The Prince, the Swan, and the Czar Saltan, The Tale of Czar Saltan, The Czar Saltan and the Wonder Island, The Tale of Tsar Saltan, Skaska O Zare Saltane, Zar Saltan und die Wunderinsel",C,1984,69,A,OK PG,True
-67,1001 Arabian Nights,"The Adventures of Aladdin, Les Aventures d'Aladin",C,1959,75,A,OK-pg.,True
-66,Elmer no boken,"My Father’s Dragon, Elmer et le dragon",C,1997,87,A,OK PG,True
-65,Mari iyagi,My Beautiful Girl Mari,C,2002,86,A,"Jack:
-Spelling Corrections: Director - Sung-gang Lee (http://www.kmdb.or.kr/eng/mm_basic.asp?person_id=00017592, Wikipedia, IMBD)",True
-64,Tayna tretey planety,The Mystery of the Third Planet,C,1981,48,A,,True
-63,Kakhardakan gorg,The Magic Carpet,C,1948,37,A,,True
-62,Posledniy lepestok,"The Last Petal, Poslednu Lepestok",C,1977,27,A,"The Last Petal
-Added: IMDB - http://www.imdb.com/title/tt0761878/
-Missing: Tale title
-Queries: Date listed does not match IMDB. I have also found different information re: camera, music, and producers on IMDB. Please confirm. ",True
-61,Jin-Roh: The Wolf Brigade,,M,1999,105,A,OK PG,True
-60,Konyok-gorbunok,"The Humpbacked Horse, Konjok Gorbunok, Das bucklige Pferdchen, Ivan and His Magic Pony (orig. 1947)",C,1975,73,A,"The Humpbacked Horse
-Added: Tale Title - The Little Humpbacked Horse (http://en.wikipedia.org/wiki/Pyotr_Pavlovich_Yershov)
-	Producer - Boris Wolf (http://en.wikipedia.org/wiki/The_Humpbacked_Horse_(film))
-Queries: The author listed is Petr Erschov, but the Wikipedia page about the film suggests that the tale author is Pyotr Pavlovich Yershov. I’m not sure if these are alternate spellings of the same name or if they are different authors. Please confirm. Also, two dates are listed. According to Wikipedia, the second date was a remake by the same director. Do you want them listed together as they are now or separately, one for each date?",True
-59,Happily N'Ever After,,C,2006,75,A,,True
-58,Skazka o zolotom petushke,"The Golden Rooster, The Tale of the Golden Cockerel",C,1967,30,A,OK PG,True
-57,Zolotaya antilopa,"The Golden Antelope, Fairy Tales from Far Off Lands",C,1954,31,A,,True
-56,Gandahar,Light Years,C,1988,83,A,OK PG,True
-55,Faeries,,C,1999,77,A,"Jack:
-Missing: Tale Title and Author (is this based on something?)
-Queries: 1) 2005 release date listed in filmography doc does not correspond to IMDB listing (1999). Please confirm correct date. 2) Run time in doc (77 min) does not correspond to IMDB (90 min). Please confirm.",True
-54,Baron Prásil,"Baron Münchhausen, The Fabulous Baron Munchausen, The Great Baron",C,1961,83,M,,True
-53,"Le chien, le général et les oiseaux","The Dog, the General, and the Birds",C,2003,75,A,,True
-50,Blanche Neige: La Suite,"Snow White: The Sequel; Blanche Neige, la suite",C,2007,82,A,,True
-49,Belle's Magical World,Beauty and the Beast: Belle's Magical World,C,1998,92,A,"Jack:
-Missing: Camera
-Queries: IMDB lists the title as Belle’s Magical World, while Wikipedia lists it as Beauty and the Beast: Belle’s Magical World (much like the second Disney Beauty and the Beast film, LVD 1-9) - please confirm how you would like this listed
+111,Three Little Pigs (Silly Symphonies),,C,1933,8,A,,True
+112,H & G,H and G,C,2013,95,L,,True
+113,The Snow Queen,,C,2005,11,L,"https://www.winnipegfilmgroup.com/films/snow-queen-the/
 ",True
-47,Beauty and the Beast: The Enchanted Christmas,Beauty and the Beast 2,C,1997,72,A,"Jack:
-Missing:
-	Camera
-	Producers",True
-40,Beauty and the Beast,,BW,1992,4,L,"Jack:  Corrections (on basis of film/film credits on YouTube): black and white, live
-		writers - Eric Hammer and Ben Edlund
-Missing: Camera, producers",True
-39,Beauty and the Beast,,C,1992,67,A,,True
-38,Beauty and the Beast,,C,1991,84,A,,True
-37,Priklyucheniya Buratino,"The Adventures of Buratino, Pinocchio and the Golden Key",C,1960,67,A,,True
-36,Le piège d'Issoudun,Juniper Tree,C,2003,85,L,,True
-35,The Juniper Tree,23,BW,1992,78,L,,True
+114,The Red Hood,,C,2009,9,L,,True
+115,Hans Christian Andersen,,C,1952,112,L,,True
+116,Blind,,C,2007,99,L,,True
+117,Snow Queen,,C,2002,180,L,,True
+119,Hans Christian Andersen:  My Life as a Fairytale,,C,2003,176,L,,True
+120,The Snow Queen,,C,2005,56,M,,True
+121,Lumikuningatar,The Snow Queen,C,1986,90,L,,True
+123,Mother Goose Land,"Out of the Inkwell, Betty Boop",BW,1933,7,A,"Jack:  IMDB also says 1933
+Questions: Wikipedia suggests this was released in 1933, not 1925. Change?",True
+124,Kdopak by se vlka bál,Who's Afraid of the Wolf,C,2008,90,L,,True
+126,Jack and the Beanstalk,Talkatoon (Betty Boop),BW,1931,7,A,,True
+127,Dizzy Red Riding-Hood,Dizzy Red Riding Hood; Talkatoon (Betty Boop),BW,1931,6,A,,True
+128,Snow-White,"Snow White, Betty Boop",BW,1933,7,A,,True
+129,Betty in Blunderland,Betty Boop,BW,1934,7,A,,True
+130,Poor Cinderella,Betty Boop,C,1934,11,A,,True
+131,Little Dutch Mill,,C,1934,9,A,OK PG,True
+132,Betty Boop and the Little King,Betty Boop,BW,1936,7,A,"Jack:  Unsure of origin, but it appears that the character of the king might be credited to someone named Oscar Soglow, who is listed as a writer on the IMDB page. It does not say whether he wrote the screenplay or an original piece that influenced this short. How should I list this, if at all? Here is the place where I found that information: http://books.google.ca/books?id=MdGoAAAAQBAJ&pg=PA116&lpg=PA116&dq=oscar+e+soglow&source=bl&ots=oBFezqmXX3&sig=7vtv6V0n4D9pi39vLo8sGizgi5Y&hl=en&sa=X&ei=QmRbUvuKMY3HqQHeiYHADQ&ved=0CFkQ6AEwCQ#v=onepage&q=oscar%20e%20soglow&f=false (it's on page 116)",True
+133,The Wizard of Ants,,BW,1941,7,A,"Jack: IMDB and the Youtube version I have found both list the title as ""The Wizard of Arts"" - please confirm
+
+IMDB lists as colour, Youtube version is B&W, please confirm",True
+134,Jack and the Beanstalk,,C,1933,8,A,"OK PG
+",True
+135,The Brave Tin Soldier,,C,1934,8,A,OK PG,True
+136,Puss in Boots,,C,1934,7,A,OK PG,True
+137,Aladdin and his Wonderful Lamp,,C,1934,8,A,"Jack:  IMDB lists title as ""Aladdin and the Wonderful Lamp"" - please confirm
+
+",True
+138,Bremen Town Musicians,The Brementown Musicians,C,1935,9,A,"Jack:  IMDB lists title as ""The Brementown Musicians"" - please confirm",True
+139,Sinbad the Sailor,,C,1935,7,A,"Jack--Listed origin as One Thousand and One Nights, though this is disputed (see http://en.wikipedia.org/wiki/Sinbad_the_Sailor#Origins_and_sources) - please confirm
+",True
+140,Balloonland,"The Pincushion Man, Balloon Land",C,1935,7,A,"Jack:  IMDb lists title as ""Balloon Land"" - please confirm",True
+141,Ali Baba,,C,1936,7,A,"Origin needs to be ATU 954 The Forty Thieves (Ali Baba)
+",True
+142,Tom Thumb,,C,1936,7,A,,True
+143,Dick Whittington's Cat,,C,1936,8,A,,True
+144,La belle et la bête,Beauty and the Beast,BW,1946,96,L,,True
+145,Oslinaya shkura,"Oslinaja schkura, The Donkey's Hide, The Princess with the Donkey Skin, Die Prinzessin mit der Eselsbaut",C,1982,85,L,,True
+147,Barbe-bleue,Bluebeard,BW,1901,9,L,I didn't add a language because it's a silent film - is that correct?,True
+148,Barbe-bleue,Bluebeard,BW,1907,,L,"There was no option to not select a mode, so it is listed as live. I couldn't find anything to indicate whether that is accurate.",True
+149,Bluebeard,,BW,1944,72,L,,True
+150,Landru,Bluebeard,C,1963,115,L,,True
+151,Bluebeard,,C,1972,125,L,IMDB also lists West Germany as a location - should we enter Germany or create a new country?,True
+152,Bluebeard Jr.,,BW,1922,,L,"IMDb doesn't state whether it is live or not, but there is no option to leave out the mode. It is a silent film, so I left language blank.",True
+153,Le Manoir du Diable,"The House of the Devil, The Devil's Castle, The Haunted Castle",BW,1896,3,L,,True
+155,Barbe-bleue,Blue Beard,BW,1897,2,L,Silent,True
+156,Cinderella and the Fairy Godmother,Cinderella,BW,1898,1,L,"Silent Film
+Trick film
+Presumed lost
+https://letterboxd.com/film/cinderella-1898/details/ ",True
+157,Cendrillon,Cinderella,M,1899,6,L,"silent, hand-colored",True
+158,La Pierre Philosophale,"The Philosopher's Stone, The Miser's Dream",BW,1899,1,U,silent,True
+159,Le Rêve du Radjah ou La Forêt Enchantée,"The Rajah's Dream or The Bewitched Wood; Oh! What a Night; or, The Sultan's Dream",BW,1900,3,L,https://www.youtube.com/watch?v=G3HlpRjrtR0,True
+160,"The Wizard, the Prince and the Good Fairy","Le Sorcier, le Prince et le Bon Genie; The Sorcerer, the Prince, and the Good Fairy",BW,1900,2,L,,True
+162,Aladdin,,C,1992,90,A,,True
+163,"Saiyu-ki, Saiyûki",Alakazam the Great!,C,1960,88,A,,True
+164,Arabian naito: Shindobaddo no bôken,Arabian Nights: The Adventures of Sinbad,C,1962,81,A,,True
+165,Azur et Asmar,Azur & Asmar: The Princes' Quest,C,2007,99,A,,True
+166,Blood Tea and Red String,,C,2006,71,M,"Stop-Motion Animation; dialogue free (but not a silent film). ",True
+167,Shisha no sho,The Book of the Dead,C,2005,70,M,stop motion animation feature.,True
+168,Drengen derville gore det unmulige,The Boy Who Wanted to Be a Bear,C,2002,75,A,,True
+169,Tenkû no shiro Rapyuta,Castle in the Sky,C,1986,126,A,Distributed by Toei Company and Walt Disney Pictures.,True
+170,Rupan sansei: Kariosutoro no shiro,The Castle of Cagliostro,C,1979,110,A,,True
+171,The Sweet Hereafter,,C,1997,177,L,,True
+172,Felicia's Journey,,C,1999,116,L,,True
+173,Babine,,C,2008,112,L,,True
+174,Sleeping Betty,Isabelle au bois dormant,C,2007,9,A,,True
+175,The Tender Tale of Cinderella Penguin,,C,1981,9,A,,True
+176,Alice in Wonderland,Alice's Adventures in Wonderland,C,1903,8,L,,True
+178,Snow White: The Fairest of Them All,"Snow White, Snow White and the Seven Bachelors, Snow White and the 7 Bachelors, Snow White and the Seven Old Bachelors",C,2001,93,L,TV movie,True
+179,The Old Woman in the Woods,,C,2012,25,M,copyright date on my DVD says 2012 IMDb 2013 PG; not sure if it's close enough to ATU 442,True
+180,I Was A Rat,,C,2001,90,L,,True
+181,Jacob Two Two Meets the Hooded Fang,,C,1999,96,L,my call PG,True
+182,Jacob Two-Two Meets the Hooded Fang,,C,1978,81,L,,True
+183,Deeply,,C,2000,101,L,fantasy?,True
+184,Freeway 2: Confessions of a Trickbaby,Freeway II: Confessions of a Trickbaby,C,1999,97,L,some filming in Canada,True
+185,Red Riding Hood,,C,2011,100,L,ick,True
+186,Confessions of an Ugly Stepsister,,C,2002,90,L,mentioned in ES,True
+187,"Good Night, Sleep Tight",,C,2006,5,M,,True
+188,Čudnovate zgode šegrta Hlapića,"Lapitch, The Little Shoemaker",C,1997,75,A,,True
+189,Tin Man,,C,2007,270,L,TV miniseries but discussed in ES,True
+190,Alice,,C,2009,184,L,"NOT in ES, but given that Willing's other miniseries is....PG",True
+191,The Marsh,,C,2006,92,L,Reference to Brothers Grimm,True
+192,Neverwas,,C,2005,103,L,,True
+193,Tideland,,C,2005,121,L,,True
+194,The Beast of Dulle Griet,,C,2004,15,L,,True
+195,Hansel and Stella,,C,2007,4,L,,True
+196,Hey Cinderella!,,C,1969,52,L,,True
+197,"Know, I am You",,C,2007,11,M,,True
+198,Mirror Mirror,,C,2012,105,L,,True
+199,Rainbow War,,C,1985,20,L,,True
+200,Red Shoes,,C,2009,11,L,https://www.youtube.com/watch?v=LC3Nenrbc9s,True
+201,Red,,C,2010,10,A,,True
+202,River,,C,2008,21,L,,True
+203,Suckathumb,,C,2010,10,M,,True
+204,Den standhaftige tinnsoldat,The Steadfast Tin Soldier,C,1955,13,M,Changed to animated/live - archive.org video shows live action intro switches to animation,True
+205,The Little Mermaid,,C,1974,26,A,,True
+206,L'été de Boniface,Bonifacio in Summertime,C,2011,26,A,,True
+207,Paradise,,C,1984,15,A,Kind of Andersen?,True
+208,The Town Mouse and the Country Mouse,Le rat de maison et le rat des champs,C,1980,5,A,,True
+209,The Bear and the Mouse,,C,1966,7,L,,True
+210,The Lion and the Mouse,,C,1976,4,A,,True
+211,Little Red Riding Hood,,C,1969,5,A,,True
+212,The North Wind and the Sun,,C,1972,2,A,,True
+213,The Wonderful World of the Brothers Grimm,,C,1962,135,L,,True
+214,Whoever Slew Auntie Roo?,Who Slew Auntie Roo?,C,1972,91,L,,True
+215,The Nightmare Before Christmas,,C,1993,76,A,,True
+216,The Wizard of Oz,,M,1939,102,L,,True
+217,Time Bandits,,C,1981,110,L,,True
+218,Mononoke-hime,Princess Mononoke,C,1997,134,A,,True
+219,Outremer,Overseas,C,1990,96,L,,True
+221,Happily N'Ever After 2,Snow White: Another Bite at the Apple,C,2009,75,A,,True
+222,Hansel & Gretel: Warriors of Witchcraft,,C,2013,83,L,a complete fucking waste of a million dollars; 83 minutes too long,True
+223,Dancehall Queen,,C,1997,98,L,,True
+224,Corpse Bride,,C,2005,77,A,,True
+225,Coraline,,C,2009,101,A,,True
+226,Beastly,,C,2011,86,L,,True
+227,Sin-de-rel-la,Cinderella,C,2006,94,L,,True
+228,Shahrazad,,C,1946,,U,"I can't find any record of this film (except maybe some in languages I can't read, but I'm not even sure if they were about the film). I've added the info Jack had in the Enchanted Screen filmo. Is that enough?",True
+229,Barbe bleue,Bluebeard,C,2009,80,L,,True
+230,Neco z Alenky,Alice,C,1988,84,L,,True
+231,964 Pinocchio,Screams of Blasphemy,C,1991,97,L,IMDb says Hagi Suzuki and Onn-chan; my names from DVD PG,True
+232,Ehky ya Scheherazade,"Scheherazade, Tell Me a Story, Eḥkī yā Shahrazād",C,2009,134,L,,True
+233,Milchwald,In This Very Moment,C,2003,87,L,,True
+234,Beauty and the Beast,Beauty and the Beasts: A Dark Tale,C,2009,90,L,,True
+235,Hansel & Gretel,,C,2002,89,L,,True
+236,Hansel & Gretel,,C,2013,90,L,,True
+237,Hansel and Gretel,Faerie Tale Theatre,C,1983,51,L,in Zipes ES,True
+238,Rapunzel,Faerie Tale Theatre,C,1983,51,L,In ES,True
+239,Rumpelstiltskin,Faerie Tale Theatre,C,1982,40,L,IN ES,True
+240,Little Red Riding Hood,Faerie Tale Theatre,C,1983,47,L,,True
+241,Hansel & Gretel: An Appalachian Version,"From the Brothers Grimm, Hansel & Gretel",C,1977,16,L,"https://www.folkstreams.net/film-detail.php?id=465
+",True
+242,The Snow Queen,Faerie Tale Theatre,C,1985,49,L,,True
+243,The Golden Compass,,C,2007,113,L,,True
+244,Deutschland bleiche Mutter,"Germany, Pale Mother",C,1980,123,L,,True
+245,Kaidan,"Kwaidan, Ghost Stories, 怪談",C,1964,125,L,,True
+246,The Pied Piper,,C,1972,90,L,,True
+247,Puss In Boots,,C,2011,90,A,,True
+248,Henjel gwa Geuretel,"Hansel and Gretel, 헨젤과 그레텔",C,2007,117,L,"Phil-sung on DVD
+Byeongwoo on DVD
+Jeong-myoung",True
+249,Grimm,,C,2003,103,L,,True
+250,Freeway,,C,1996,102,L,,True
+252,Zui xiong,Fairy Tale Killer,C,2012,90,L,,True
+253,Peau d'âne,Donkey Skin,C,1970,89,L,,True
+254,Promenons-nous dans les bois,Deep in the Woods,C,2000,87,L,,True
+256,"I, Robot",,C,2004,115,L,,True
+257,How to Train Your Dragon,,C,2010,98,A,,True
+258,Hauru no ugoku shiro,Howl's Moving Castle,C,2004,119,A,,True
+259,Hoodwinked!,Hoodwinked,C,2005,80,A,,True
+260,Neverland,,C,2011,180,L,other Nick Willing series in ES,True
+261,Mutzmag: An Appalachian Folktale,From the Brothers Grimm,C,1992,53,L,,True
+262,Mirrormask,,C,2005,104,M,,True
+263,Rusalka,"Mermaid, Русалка",C,2007,100,L,,True
+264,Otesánek,"Little Otik, Greedy Guts",C,2000,126,M,,True
+265,Gake no ue no Ponyo,"Ponyo, Ponyo on the Cliff by the Sea",C,2008,101,A,,True
+266,Kvitebjørn Kong Valemon,The Polar Bear King,C,1991,88,L,,True
+267,Pinocchio 3000,,C,2004,80,A,,True
+268,Pan's Labyrinth,El laberinto del fauno,C,2006,118,L,,True
+269,Ondine,,C,2009,103,L,,True
+270,Slumdog Millionaire,,C,2008,121,L,,True
+271,La belle endormie,The Sleeping Beauty,C,2010,82,L,,True
+272,Sydney White,Sydney White and the Seven Dorks,C,2007,108,L,,True
+273,Shôjo kakumei Utena: Adolescence mokushiroku,"Revolutionary Girl Utena: The Movie, 少女革命ウテナ",C,1999,100,A,,True
+274,Rumpelstiltskin,,C,1995,87,L,,True
+275,Rotkäppchen: The Blood of Red Riding Hood,,C,2009,105,L,what a piece of crap,True
+276,Red Riding: In the Year of Our Lord 1974,The Red Riding Trilogy,C,2009,102,L,,True
+277,Red Riding: The Year of Our Lord 1983,Red Riding Trilogy,C,2009,100,L,,True
+278,Red Riding: The Year of our Lord 1980,Red Riding Trilogy,C,2009,93,L,,True
+279,Red Riding Hood,,C,2003,93,L,,True
+280,Little Erin Merryweather,,C,2003,84,L,,True
+281,Rebecca,,BW,1940,130,L,"In Tatar's Secrets ",True
+282,Were the World Mine,,C,2008,95,L,,True
+283,A Wicked Tale,,C,2005,45,L,"
+",True
+284,Lady Oscar,,C,1979,124,L,,True
+285,Rekopis znaleziony w Saragossie,The Saragossa Manuscript,BW,1965,175,L,,True
+286,ParaNorman,,C,2012,92,A,,True
+287,Woodenhead,,BW,2003,90,L,,True
+288,Tuvalu,,C,1999,101,L,,True
+289,Hanna,,C,2011,111,L,"Ok, sometimes it seems like people can see whatever fairy tale they want. Skrodzka, A. 2015 Cinematic Fairy Tales of Female Mobility in Post-Wall Europe: Hanna v. Mona, in East, West and Centre: Reframing Post 1989 European Cinema, eds. M Gott & T. Herzog, 109-126. Edinburgh: Edinburgh UP.  says it's Snow White
+Kelly Oliver
+Hunting Girls: Sexual Violence from The Hunger Games to Campus Rape
+New York: Columbia University Press, 2016",True
+290,Na-moo-eobs-neun san,Treeless Mountain,C,2008,89,L,,True
+291,Fantastic Mr. Fox,,C,2009,87,A,,True
+292,Year of the Fish,,C,2007,96,M,,True
+293,The Woodsman,,C,2004,87,L,,True
+294,The Wolves of Kromer,,C,1998,82,L,,True
+295,Alice in Wonderland,,BW,1915,52,L,,True
+296,Alice in Wonderland,,BW,1931,55,L,https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1931_film),True
+297,Alice in Wonderland,,BW,1933,76,M,https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1933_film),True
+298,Alice in Wonderland,,BW,1937,30,L,,True
+299,Alice in Wonderland,,C,1949,76,M,https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1949_film),True
+300,Alice in Wonderland,,C,1951,75,A,,True
+301,Alice in Wonderland,Hallmark Hall of Fame: Alice in Wonderland,BW,1955,74,L,"I couldn't find company info, and I'm not sure of the mode - I think it is live but I can't find confirmation other than poorly-labeled YouTube videos.
+AM: Definitely live. Also black and white, updated May 27, 2021. ",True
+302,Alice in Wonderland,,BW,1966,72,L,,True
+303,Alice in Wonderland or What's a Nice Kid Like You Doing in a Place Like This?,What's a Nice Kid Like You Doing in this Place?,C,1966,60,A,"The title is listed in the Enchanted Screen filmo as ""Alice in Wonderland, or What's a Nice Kid Like You Doing in this Place?"" but I've separated the two parts of the title. Is that correct? Also, IMDb lists the title as ""Alice in Wonderland, or What's a Nice Kid Like You Doing in a Place Like This?"" and I'm wondering if someone can confirm that the Enchanted Screen listing is in fact the correct title.",True
+304,Alice,Alicja,C,1982,90,L,,True
+305,Alice in Wonderland,,C,1985,187,L,,True
+306,Alice in Wonderland 2,,C,1986,120,L,"This ran as four 30 minutes episodes, so I've totalled them. Is that correct?",True
 307,Alice in Wonderland,Alice through the looking glass,C,1988,51,A,,True
 309,Alice in Wonderland,,C,1995,45,A,,True
 310,Alice in Wonderland,,C,1999,131,L,,True
