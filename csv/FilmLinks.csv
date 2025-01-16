@@ -1,4 +1,4 @@
-LinkId,FilmId,URL
+LinkId,FilmId,Url
 12,35,http://www.imdb.com/title/tt0138545/
 13,36,http://www.imdb.com/title/tt0380632/
 15,37,http://www.imdb.com/title/tt0152066/
@@ -429,7 +429,7 @@ LinkId,FilmId,URL
 586,153,http://www.imdb.com/title/tt0000091/
 587,156,http://www.imdb.com/title/tt0000181/
 588,158,http://www.imdb.com/title/tt0226305/
-589,159, http://www.imdb.com/title/tt0227420/
+589,159," http://www.imdb.com/title/tt0227420/"
 590,160,http://www.imdb.com/title/tt0227527/
 591,535,http://www.imdb.com/title/tt0224801/
 592,162,http://www.imdb.com/title/tt0103639/
@@ -4405,7 +4405,7 @@ LinkId,FilmId,URL
 5896,1729,https://uwinnipeg.on.worldcat.org/oclc/743138664
 5897,3852,https://uwinnipeg.on.worldcat.org/oclc/743138664
 5898,87,https://uwinnipeg.on.worldcat.org/oclc/743138664
-5899,4492,https://www.imdb.com/title/tt10326928/ 
+5899,4492,"https://www.imdb.com/title/tt10326928/ "
 5900,4493,https://www.imdb.com/title/tt0380724/
 5901,1862,https://www.imdb.com/title/tt0258401/
 5902,4494,https://www.imdb.com/title/tt0044340/
@@ -4451,18 +4451,18 @@ LinkId,FilmId,URL
 5946,4538,https://www.imdb.com/title/tt0999910/
 5947,4539,https://www.imdb.com/title/tt0204541/
 5948,4540,https://www.imdb.com/title/tt0066781/
-5949,4541,https://www.imdb.com/title/tt1818377/ 
+5949,4541,"https://www.imdb.com/title/tt1818377/ "
 5950,4542,https://www.imdb.com/title/tt1169147/
 5951,4543,https://www.imdb.com/title/tt0879812/
 5952,4544,https://www.imdb.com/title/tt4693398/
 5953,4545,https://www.imdb.com/title/tt1344107/
 5954,4546,https://www.imdb.com/title/tt1614343/
 5955,4554,https://www.imdb.com/title/tt0057669/
-5956,4555,https://www.imdb.com/title/tt0039240/ 
+5956,4555,"https://www.imdb.com/title/tt0039240/ "
 5958,4556,https://www.imdb.com/title/tt0207370/
 5959,4558,https://www.imdb.com/title/tt6069442/
 5960,4559,https://www.imdb.com/title/tt0032967/
-5961,4560,https://www.imdb.com/title/tt0032887/ 
+5961,4560,"https://www.imdb.com/title/tt0032887/ "
 5964,4563,https://www.imdb.com/title/tt0052012/
 5965,4564,https://www.imdb.com/title/tt8159584/
 5966,4566,https://www.imdb.com/title/tt1725929/
@@ -4470,9 +4470,9 @@ LinkId,FilmId,URL
 5969,4569,https://www.imdb.com/title/tt3961692/
 5970,4570,https://www.imdb.com/title/tt0036264/
 5971,4572,https://www.imdb.com/title/tt5915572/
-5972,4573,https://www.imdb.com/title/tt6687748/ 
+5972,4573,"https://www.imdb.com/title/tt6687748/ "
 5973,4574,https://www.imdb.com/title/tt7966994/
-5974,4575,https://www.imdb.com/title/tt10551268/ 
+5974,4575,"https://www.imdb.com/title/tt10551268/ "
 5975,4576,https://www.imdb.com/title/tt1371638/
 5976,4577,https://www.imdb.com/title/tt0756321/
 5977,4578,https://www.imdb.com/title/tt0230544/
@@ -4503,10 +4503,10 @@ LinkId,FilmId,URL
 6003,4604,https://www.imdb.com/title/tt2129960/
 6004,4605,https://www.imdb.com/title/tt4863768/
 6005,4606,https://www.imdb.com/title/tt0419644/
-6006,4607,https://www.imdb.com/title/tt6136142/ 
+6006,4607,"https://www.imdb.com/title/tt6136142/ "
 6008,4608,https://www.imdb.com/title/tt0496683/
 6009,4609,https://www.imdb.com/title/tt0160425/
-6010,4610,https://www.imdb.com/title/tt3479322/ 
+6010,4610,"https://www.imdb.com/title/tt3479322/ "
 6012,4611,https://www.imdb.com/title/tt10497492/
 6013,4612,https://www.imdb.com/title/tt0292475/
 6014,4613,https://www.imdb.com/title/tt11290978/
@@ -5758,7 +5758,7 @@ LinkId,FilmId,URL
 7322,1166,https://ecommerce.umass.edu/defa/film/4831
 7323,3796,https://uwinnipeg.on.worldcat.org/oclc/1227421441
 7324,1169,https://ecommerce.umass.edu/defa/film/5104
-7325,1171,https://ecommerce.umass.edu/defa/node/4796 
+7325,1171,"https://ecommerce.umass.edu/defa/node/4796 "
 7326,5815,https://www.imdb.com/title/tt2788732/
 7327,1271,https://www.imdb.com/title/tt6369534/
 7328,5816,https://www.imdb.com/title/tt2953050/
@@ -6059,7 +6059,7 @@ LinkId,FilmId,URL
 7625,6074,https://www.imdb.com/title/tt0212531
 7626,6075,https://www.imdb.com/title/tt1975269/
 7627,6076,https://www.imdb.com/title/tt3231764/
-7628,5332, https://uwinnipeg.on.worldcat.org/oclc/22478326
+7628,5332," https://uwinnipeg.on.worldcat.org/oclc/22478326"
 7629,6078,https://www.imdb.com/title/tt1293561/
 7630,6077,https://www.imdb.com/title/tt1161646/
 7631,6079,https://www.imdb.com/title/tt3234078/
@@ -6150,7 +6150,7 @@ LinkId,FilmId,URL
 7716,6136,https://www.imdb.com/title/tt4857224/
 7717,6137,https://www.imdb.com/title/tt9620292/
 7718,1631,https://www.imdb.com/title/tt14288024/
-7719,3467, http://www.der7btezwerg.de/ 
+7719,3467," http://www.der7btezwerg.de/ "
 7720,4452,https://www.imdb.com/title/tt6114970/
 7721,6138,https://www.imdb.com/title/tt0450519/
 7722,6139,https://www.imdb.com/title/tt11580634/
@@ -6203,7 +6203,7 @@ LinkId,FilmId,URL
 7770,6181,https://www.imdb.com/title/tt6628228/
 7771,6182,https://www.imdb.com/title/tt8744094/
 7772,6183,https://www.imdb.com/title/tt7910444/
-7773,6184,https://www.imdb.com/title/tt0364526/ 
+7773,6184,"https://www.imdb.com/title/tt0364526/ "
 7774,6184,https://www.imdb.com/title/tt0364526/
 7775,6185,https://www.imdb.com/title/tt5776858/
 7776,4557,https://www.imdb.com/title/tt3842606/
@@ -6234,7 +6234,7 @@ LinkId,FilmId,URL
 7802,6195,https://www.imdb.com/title/tt1596342/
 7803,6196,https://www.imdb.com/title/tt8173728/
 7804,6197,https://www.imdb.com/title/tt3915174/
-7805,6198,https://www.imdb.com/title/tt3513500/ 
+7805,6198,"https://www.imdb.com/title/tt3513500/ "
 7806,6199,https://www.imdb.com/title/tt10366206/
 7807,6200,https://www.imdb.com/title/tt13651628/
 7808,6201,https://www.imdb.com/title/tt1821497/
@@ -6258,7 +6258,7 @@ LinkId,FilmId,URL
 7826,6220,https://www.imdb.com/title/tt0263402/
 7827,6221,https://www.imdb.com/title/tt0231684/
 7828,6222,https://www.filmarchive.gov.hk/en_US/web/hkfa/pe-event-2019-4-1-3.html
-7829,6223,https://www.imdb.com/title/tt0064394/ 
+7829,6223,"https://www.imdb.com/title/tt0064394/ "
 7830,6224,https://www.imdb.com/title/tt1147513/
 7831,6225,https://www.imdb.com/title/tt4272668
 7832,6225,https://www.imdb.com/title/tt4272668/
@@ -6283,7 +6283,7 @@ LinkId,FilmId,URL
 7851,6245,https://www.imdb.com/title/tt0038373/
 7852,6246,https://www.imdb.com/title/tt19843354/
 7853,6247,https://www.imdb.com/title/tt0173256/
-7854,6248,https://www.imdb.com/title/tt14445134/ 
+7854,6248,"https://www.imdb.com/title/tt14445134/ "
 7855,6249,https://www.imdb.com/title/tt0149666/
 7856,6250,https://www.imdb.com/title/tt1136927/
 7857,6251,https://www.imdb.com/title/tt0030407/
@@ -6363,8 +6363,8 @@ LinkId,FilmId,URL
 7931,6329,https://www.imdb.com/title/tt6420684/
 7932,6332,https://www.imdb.com/title/tt4857740/
 7933,6334,https://www.imdb.com/title/tt0418150/
-7934,6335,https://www.imdb.com/title/tt0318683/  
-7935,6336,https://www.imdb.com/title/tt0479750/  
+7934,6335,"https://www.imdb.com/title/tt0318683/  "
+7935,6336,"https://www.imdb.com/title/tt0479750/  "
 7936,6337,https://www.imdb.com/title/tt0877709/
 7937,6338,https://www.imdb.com/title/tt1042910/
 7938,6339,https://www.imdb.com/title/tt1314843/
@@ -6378,7 +6378,7 @@ LinkId,FilmId,URL
 7946,6347,https://www.imdb.com/title/tt12519030/
 7947,6348,https://www.imdb.com/title/tt2952318/
 7948,6349,https://www.imdb.com/title/tt1839596/
-7949,6350,https://www.imdb.com/title/tt10731256/ 
+7949,6350,"https://www.imdb.com/title/tt10731256/ "
 7950,6351,https://www.imdb.com/title/tt6127004/
 7951,6352,https://www.imdb.com/title/tt8097030/
 7952,6353,https://www.imdb.com/title/tt7146812/
@@ -6427,7 +6427,7 @@ LinkId,FilmId,URL
 7998,6399,https://www.imdb.com/title/tt0177889/
 7999,6400,https://www.imdb.com/title/tt0054067/
 8000,6401,https://www.imdb.com/title/tt1224378/
-8001,6402,https://www.imdb.com/title/tt6218010/ 
+8001,6402,"https://www.imdb.com/title/tt6218010/ "
 8002,6402,https://www.imdb.com/title/tt6218010/
 8003,6403,https://www.imdb.com/title/tt13688166/
 8004,6404,https://www.imdb.com/title/tt0466933/
@@ -6462,7 +6462,7 @@ LinkId,FilmId,URL
 8037,6438,https://www.imdb.com/title/tt2513092/
 8038,6439,https://www.imdb.com/title/tt0098084/
 8039,6440,https://www.imdb.com/title/tt0837563/
-8040,6441,https://www.imdb.com/title/tt1642193/ 
+8040,6441,"https://www.imdb.com/title/tt1642193/ "
 8041,6441,https://www.imdb.com/title/tt1642193/
 8042,6442,https://www.imdb.com/title/tt12027154/
 8043,6443,https://www.imdb.com/title/tt0418593/
