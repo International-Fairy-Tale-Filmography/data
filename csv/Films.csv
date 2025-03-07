@@ -1,4 +1,4 @@
-FilmId,Title,OtherTitle,Color,ReleaseYear,Duration,Mode,Comment,Published
+FilmId,Title,OtherTitle,Color,ReleaseYear,Duration,Mode,Comment,Published,Guid
 35,The Jeff Tree 2,23,BW,1992,78,L,,True
 36,Le piège d'Issoudun,Juniper Tree,C,2003,85,L,,True
 37,Priklyucheniya Buratino,"The Adventures of Buratino, Pinocchio and the Golden Key",C,1960,67,A,,True

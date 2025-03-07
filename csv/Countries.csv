@@ -1,4 +1,4 @@
-CountryId,Code,Name
+CountryId,Code,Name,Guid
 1,AD,Andorra
 2,AE,United Arab Emirates
 3,AF,Afghanistan

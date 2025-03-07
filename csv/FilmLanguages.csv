@@ -1,4 +1,4 @@
-FilmId,LanguageId
+FilmId,LanguageId, FilmGuid,LanguageGuid
 35,51
 36,35
 37,94

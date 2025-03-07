@@ -1,4 +1,4 @@
-FilmId,CompanyId
+FilmId,CompanyId,FilmGuid,CompanyGuid
 35,2420
 35,4104
 36,24

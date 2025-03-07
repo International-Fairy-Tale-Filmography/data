@@ -1,4 +1,4 @@
-FilmId,PersonId,RoleId
+FilmId,PersonId,RoleId,FilmGuid,PersonGuid,RoleGuid
 35,181,52
 35,181,54
 35,181,56

@@ -1,4 +1,4 @@
-RoleId,Name,Order
+RoleId,Name,Order,Guid
 52,Director,1
 54,Producer,5
 55,Cast,6
