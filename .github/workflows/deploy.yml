@@ -14,14 +14,8 @@ jobs:
       - name: create folder
         run: mkdir wwwroot
 
-      - name: copy sqlite file
-        run: cp -r sqlite wwwroot
-
       - name: copy csv folder
         run: cp -r csv wwwroot
-
-      - name: copy json folder
-        run: cp -r json wwwroot
 
       # add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project. (Allow files and folders starting with an underscore)
       - name: Add .nojekyll file
