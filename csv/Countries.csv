@@ -1,254 +1,254 @@
-CountryId,Guid,Code,Name
-1,6c564f0b-a7c0-4872-9352-cc91a71ff602,AD,Andorra
-2,3d63040c-da3d-4d55-86b5-e6fb120678d7,AE,United Arab Emirates
-3,a086154f-fc50-4ce8-bbfb-895e9d63d52b,AF,Afghanistan
-4,1792d3a1-b9ea-47c5-ac3b-4002a5be2b26,AG,Antigua And Barbuda
-5,08169229-b36e-447f-9947-6f2d5d0a5be5,AI,Anguilla
-6,20450afd-aa09-4c1d-9009-090a5638ca11,AL,Albania
-7,fa329012-0bfe-44c1-9659-fc52990239a7,AM,Armenia
-8,3fea9a48-da2b-43ab-9d3e-53ae8813c4b3,AN,Netherlands Antilles
-9,11201ea7-bbe5-44d3-86f3-a2053e039aa4,AO,Angola
-10,eeba8688-d7f6-475c-b4e3-f1859ecece0f,AQ,Antarctica
-11,52756f0a-4ebd-4bdc-8a0c-a2c79c82cb82,AR,Argentina
-12,f59eb18a-8dd4-419f-a542-e5bcbe2f8ba7,AS,American Samoa
-13,48a21320-af92-412d-a087-34332a827842,AT,Austria
-14,f76038bd-d03b-4d8d-a5be-73697c3a9966,AU,Australia
-15,b13ae09d-6249-4406-8887-3b43845fcf83,AW,Aruba
-16,c89343fb-e67e-4107-babe-75d0524cf008,AX,Åland Islands
-17,257f8cf6-c5fe-4315-9533-8dce1ffe9c43,AZ,Azerbaijan
-18,1338dfc1-82c3-447f-bd19-bbeadaf53147,BA,Bosnia And Herzegovina
-19,01780228-0074-4826-8be8-941d96445fd5,BB,Barbados
-20,d7950a72-0b97-4ef8-bbdf-2ac31f5da722,BD,Bangladesh
-21,c0a1e54f-3b9b-4a87-b9fc-1ff4517b6d5f,BE,Belgium
-22,26f205b7-17bf-408b-93ad-64f091bbb9b9,BF,Burkina Faso
-23,84ae89b3-bb76-429e-8f6b-820980aea122,BG,Bulgaria
-24,f9c7da33-fe20-49f3-9a1c-6e4eff353b66,BH,Bahrain
-25,faee330b-4ca3-4bf1-a717-e4f444d18488,BI,Burundi
-26,f6ec7cb3-c29d-404f-8fad-f017433040c7,BJ,Benin
-27,41f95e56-4e38-4909-a4af-0bc155c8d6a4,BM,Bermuda
-28,fd2af8fd-fa96-4d39-88db-15ba061fd38d,BN,Brunei Darussalam
-29,e58ea096-1c37-4817-8c19-563d13ca1b4a,BO,Bolivia
-30,b1546cf3-4de0-4935-ad71-e397438bf67f,BR,Brazil
-31,6d1d895e-6587-4908-a8e6-7c0ac105b293,BS,Bahamas
-32,c37000de-9c34-4c70-b924-4cb0fa902b49,BT,Bhutan
-33,ec5d06e4-2813-4da1-9d1a-6db4f839abb7,BV,Bouvet Island
-34,5c5ddb12-4f2f-4f8b-9906-0baedef63def,BW,Botswana
-35,347fd7a9-3a91-48ad-af08-178407a9eab9,BY,Belarus
-36,e6d80e28-4844-4461-ac54-f66cc77f96df,BZ,Belize
-37,969981ba-d876-4af4-b1b8-6dbc11462aa4,CA,Canada
-38,a40dc99f-a055-4d37-ab46-a9a4718284d0,CC,Cocos (Keeling) Islands
-39,ded5f15d-ed31-415c-9771-aad23c7e949e,CD,"Congo, The Democratic Republic"
-40,79c3a20d-3150-4977-b140-12808ff95565,CF,Central African Republic
-41,df33a801-8fe9-4c30-a8fc-65165f91a001,CG,Congo
-42,fbdba08d-c241-4f9b-b771-983982eb9e1f,CH,Switzerland
-43,cefc1b26-1e7b-4cb8-9919-3c106584196d,CI,Cote D'Ivoire
-44,a2216ec9-992a-4eae-9e58-d6ed73f3e98f,CK,Cook Islands
-45,1d6db636-b6a7-4691-9757-580091209cc7,CL,Chile
-46,b556b320-a5bf-4f8c-bcc1-8bb657eb15f0,CM,Cameroon
-47,8bff6a20-3319-4af0-9a73-b3f4b93399ea,CN,China
-48,d95072ee-0bef-4584-9b88-a32ea57f6b6d,CO,Colombia
-49,4961eb92-c792-4a9e-a6bf-006290c2dc7f,CR,Costa Rica
-50,ed3ceda2-1823-4865-aa37-dc55cef390f7,CS,Serbia And Montenegro
-51,2e4f65f5-0c62-4fb1-a5c0-399dc10dfc54,CU,Cuba
-52,29c5d635-945a-40c3-b776-1bf8f1e8116f,CV,Cape Verde
-53,7e2d81a6-c549-4292-8965-64dde76d16d4,CX,Christmas Island
-54,b9a2640b-7acb-42dc-b81d-39b038b60244,CY,Cyprus
-55,aad9f6e9-4041-4276-8a1b-b1f05dfb9403,CZ,Czech Republic
-56,0bf510ce-96ef-409c-9dd8-a6155c115871,DE,Germany
-57,ac847d3e-4312-40a3-8c2c-74989f7d53fc,DJ,Djibouti
-58,79339ac3-2311-4fcb-9948-d2da5070be33,DK,Denmark
-59,21437659-9d9c-45a1-87fc-8e792792437f,DM,Dominica
-60,cb2e511a-7c73-4734-a1bb-54c4a58e597e,DO,Dominican Republic
-61,d56c5236-2d48-40d7-8257-a73fbe07481e,DZ,Algeria
-62,2d03a687-7329-4fad-b75d-68cd3ee336b9,EC,Ecuador
-63,53bbcada-0646-47dc-865a-f46f902ff96d,EE,Estonia
-64,752cfbe6-d4b8-48d7-a1dd-b338dd7af44f,EG,Egypt
-65,5170384f-5e51-42e7-814b-7a13f99e29d2,EH,Western Sahara
-66,ff0e94af-4d30-42b6-be3e-a5f5b324c3d5,ER,Eritrea
-67,daf62520-3084-4cb2-8cc7-7cca16308265,ES,Spain
-68,77a0b171-ba5d-46d0-aebc-0584c4f3a5cc,ET,Ethiopia
-69,8115ab3e-0171-4094-a3a4-9b4eb6320456,FI,Finland
-70,f6f527de-e0d6-4e68-a2a4-cddc47284fad,FJ,Fiji
-71,0dbaa145-d497-4b7f-a019-d84c1c4c250b,FK,Falkland Islands (Malvinas)
-72,c8fb100f-b9e6-4a82-a682-b84ce42cfcfc,FM,"Micronesia, Federated States O"
-73,96868aa0-6dea-4403-92e9-99b4e9407ad0,FO,Faroe Islands
-74,66bbd8f2-ad0e-4aac-b223-cdbab3d85283,FR,France
-75,60e14509-282b-4306-aabc-d9e1254b4d92,GA,Gabon
-76,74eefbdb-3b08-4a53-af05-57195517ee8f,GB,United Kingdom
-77,94ec1993-8ac4-43fc-be85-6808fa698d03,GD,Grenada
-78,deadfeb6-c329-4c3c-8acb-13e48e2cff7e,GE,Georgia
-79,03dd168c-0864-4ca4-8092-4cdf5098ea04,GF,French Guiana
-80,130ea5ab-30f9-4bd4-9ad6-db65a1c9dbb1,GH,Ghana
-81,a52abd53-a9a1-4435-b013-ba662bb8ae1a,GI,Gibraltar
-82,2f9f9daf-cb9e-4150-93ef-931d2d4e7023,GL,Greenland
-83,f0886822-a84a-4d5c-af54-105cb730be83,GM,Gambia
-84,033bbebc-806e-4fea-98a9-fb17c9842938,GN,Guinea
-85,ab623231-7487-469c-be18-9fda22ef4afe,GP,Guadeloupe
-86,597791a0-69bc-4716-a208-56e42f8c6cd8,GQ,Equatorial Guinea
-87,44b19a0e-1364-4ee7-a633-c1816edfdc75,GR,Greece
-88,c51c60bc-fb90-48f7-815f-1e20d5c970f1,GS,South Georgia And The South Sa
-89,7a5169c0-876f-448a-af10-bde68f42c162,GT,Guatemala
-90,17718a3a-3439-4681-852b-5d7c71d54562,GU,Guam
-91,a874be60-fc23-4958-84f2-25db31435b52,GW,Guinea-Bissau
-92,21ce7f92-b6a1-4bb3-bddd-8c8484b4bb0f,GY,Guyana
-93,dbc86ed4-7e0b-4845-b30f-02732cefdfa0,null,"Hong Kong, China"
-94,b82e4eb1-1bf1-49a1-a28c-cc17a30e0e58,HM,Heard Island And Mcdonald Isla
-95,cfe12477-3aa9-451f-b74b-33e646b360bf,HN,Honduras
-96,c5e230e2-7a24-4212-ab0c-0667615b1e94,HR,Croatia
-97,823b743e-620c-4f3e-b024-c15c1027a79f,HT,Haiti
-98,ec888cbd-9e30-43c2-aaef-a7e966aec661,HU,Hungary
-99,c5f888c5-d4d0-48dd-a42f-301e3f4f7fb7,ID,Indonesia
-100,9745472f-c600-4b23-b78d-ea77fa816ff3,IE,Ireland
-101,d66bec13-d3e7-4c53-8e3c-f71dfabbeb42,IL,Israel
-102,2a32b423-8aa3-48a7-ba6b-9e463147618d,IN,India
-103,7107d342-438c-4895-85ab-9962278ac0b6,IO,British Indian Ocean Territory
-104,4bc292e6-05af-4c76-9d19-8d68a110d47a,IQ,Iraq
-105,7a8676ae-96d1-436a-af99-8550a24ab541,IR,"Iran, Islamic Republic Of"
-106,6da39409-1e00-485d-baa5-8c112259f002,IS,Iceland
-107,60391fe6-f3b6-46c8-a389-8265476afa26,IT,Italy
-108,b24fee13-ad3d-4dfc-9cb3-63137d7ff9d8,JM,Jamaica
-109,0449bf50-b58a-4328-8b70-919f6439ad8b,JO,Jordan
-110,e8caf7fb-fc8f-4ec6-82cb-e8d771fa8a8c,JP,Japan
-111,9bec4a22-a515-47ae-a31c-a8128deddbce,KE,Kenya
-112,081944de-9e0b-4620-9780-5b5153603e40,KG,Kyrgyzstan
-113,67781b95-e727-4bbe-8c47-632a984b669a,KH,Cambodia
-114,832fee37-a97b-4387-a9ee-537bb348cfd1,KI,Kiribati
-115,415da80f-f2ea-456f-bc19-7b1dc02eb04b,KM,Comoros
-116,6f8adf5c-c30d-4fec-9f7b-cb032d36960e,KN,Saint Kitts And Nevis
-118,ebec04b3-5efd-4309-8c62-7c1902485975,null,South Korea
-119,950a98df-beff-438c-a769-e541f5333229,KW,Kuwait
-120,a42e035d-5baf-465d-8d6a-2cadae150774,KY,Cayman Islands
-121,65a76601-f4c4-442a-b1cb-e7ee630c9530,KZ,Kazakhstan
-122,7ab4363e-9197-4c58-b898-be885dc05d5f,LA,Lao People's Democratic Republ
-123,7e186dae-2dc6-47f7-b7f3-00b93fac9895,LB,Lebanon
-124,c864e316-7818-4c2c-be49-d5a773835d9e,LC,Saint Lucia
-125,bc413b9e-13ba-4668-a473-d9c25db37b00,LI,Liechtenstein
-126,f12905eb-e96b-4a16-9961-d1914f15042d,LK,Sri Lanka
-127,73042197-4afc-45cf-a1d9-1b8906858e3f,LR,Liberia
-128,962204bf-6293-4ea4-a823-759755cb9c10,LS,Lesotho
-129,476fe1ae-805b-40f7-ae4f-4f0e27ed51b7,LT,Lithuania
-130,659eb7c8-86dc-40d6-bbfb-b550dd5d213e,LU,Luxembourg
-131,e59c1857-1518-40f9-944e-e2c0c357acd1,LV,Latvia
-132,4a7f249d-9b85-4b27-998f-cfc6265459e5,LY,Libyan Arab Jamahiriya
-133,791c5010-6ab1-474c-a38c-8924b966e63a,MA,Morocco
-134,51583955-ec49-4ea1-a66c-125fafd95fcc,MC,Monaco
-135,e6afe269-41b6-4bc0-9536-465477513cd1,MD,"Moldova, Republic Of"
-136,0aa0f27c-071c-4662-959a-932debf535d2,MG,Madagascar
-137,81312e61-5963-41a7-80c9-b2b288885a3c,MH,Marshall Islands
-138,3eb88df0-6ebb-43b1-a256-4bd627191004,MK,"Macedonia, The Former Yugoslav"
-139,233a989c-b3a4-4815-9122-3d76f160e77b,ML,Mali
-140,780fd17e-1c35-42f0-8374-ad48bba4cf88,MM,Myanmar
-141,6aa30bfd-fdf0-4d67-b9cc-2a7ca9c1c4ab,MN,Mongolia
-142,afab3c52-0527-4199-aeb3-ee3514baf12e,MO,Macao
-143,eb2af32c-abc0-48ef-bd2f-ce0e4ead872f,MP,Northern Mariana Islands
-144,b1a00b7d-ad04-45a4-99d5-ff1f2704690b,MQ,Martinique
-145,590e27f5-1117-469c-9246-1d42c57201e2,MR,Mauritania
-146,55ecd0e6-a290-462d-84dd-707ba1cf5238,MS,Montserrat
-147,f9287912-92d1-4940-8b8e-52f47fc264b9,MT,Malta
-148,adb33627-ec26-4747-a4c0-a3b4dcb81e6d,MU,Mauritius
-149,9d6851e0-7242-42ed-988e-f1a411296e51,MV,Maldives
-150,6277c93b-c6b2-4f3c-b55c-4a49892dea3f,MW,Malawi
-151,b242615c-df30-4a11-8bba-c06f8e2401eb,MX,Mexico
-152,4752446c-dcc9-4805-aace-bf90c9b67fd1,MY,Malaysia
-153,982c3a38-6307-49c8-a00b-93a5a3b69c27,MZ,Mozambique
-154,e303421d-c95d-46aa-989c-82dc31a9f927,NA,Namibia
-155,c35e636d-ee11-4089-9789-67d6f7e8814c,NC,New Caledonia
-156,08d1e645-f21d-43e6-9367-9e72c8f8d3c1,NE,Niger
-157,59eada6f-f6ec-4cc9-aba8-5b070440672f,NF,Norfolk Island
-158,44c7d09a-c715-472b-8b85-29f988081f28,NG,Nigeria
-159,e114c94c-81fe-4407-b040-bcf5372f2ad6,NI,Nicaragua
-160,02de401a-0cdd-4b50-9a23-7dd25cda265b,NL,Netherlands
-161,3db5a4fd-9391-48b0-9344-23aaa6961597,NO,Norway
-162,65f81903-2af5-44ac-a3e5-b2fa895672ca,NP,Nepal
-163,3fcac97a-29ac-46ed-a41a-74de83ad9193,NR,Nauru
-164,c1ecda6f-3fff-46ec-ace8-61fdfb7093a4,NU,Niue
-165,24252175-217e-4d6f-8b3a-672f785d8201,NZ,New Zealand
-166,7cd5b8f6-536f-4945-8b34-596a7f518a8c,OM,Oman
-167,a35ef6be-15b2-4125-88cd-2dee716b2aa8,PA,Panama
-168,32e8a848-51bb-43c8-ae46-3e2cda4bcef7,PE,Peru
-169,974b5698-ebe1-4238-a9fa-7d46691a3561,PF,French Polynesia
-170,07f90ddd-37e6-40d5-b152-e55808b2cc72,PG,Papua New Guinea
-171,401cb616-5c8a-49b1-9144-20f3131c0a34,PH,Philippines
-172,a7cb2ea3-a49a-4a61-8571-c1666f682118,PK,Pakistan
-173,6f46d991-01bf-4fba-9731-fc6660dd3ba9,PL,Poland
-174,dabdfdee-31cb-40d1-9dbd-08e1a6c97531,PM,Saint Pierre And Miquelon
-175,a1e64d46-54af-44fe-aabd-ef3044cb0cc8,PN,Pitcairn
-176,aafad289-5836-4c46-ab5a-eb9163feac82,PR,Puerto Rico
-177,9edd6a7d-4ad9-4be9-88c0-61eaa9f51f6f,PS,"Palestinian Territory, Occupie"
-178,7e71f3d3-cad5-4782-b194-a93661370a5e,PT,Portugal
-179,0a0eb48d-a8b2-4bc5-a516-2497836d3e96,PW,Palau
-180,ac72ca52-d93e-4715-9217-33f683ac0936,PY,Paraguay
-181,8f0549ca-8257-426a-80c3-355deae4f0ad,QA,Qatar
-182,4b68df20-43ac-423f-abc6-b21e82cf2cea,RE,Reunion
-183,444e3346-e3c3-4ee5-8704-79b7caaeb5a5,RO,Romania
-184,71fbb424-190d-4b26-821e-11e529585ef9,RS,Serbia
-185,3df1dfd3-58f7-41c4-9348-fcf8ca98f504,RU,Russian Federation
-186,eed88b50-46b1-4059-8925-8f964c2f7289,RW,Rwanda
-187,bf651a47-00eb-4810-a9ee-7885bc6a6d25,SA,Saudi Arabia
-188,bef80e8c-9448-4740-9c3d-e8796f645150,SB,Solomon Islands
-189,e5604071-49b7-48c4-b3ba-36671ba11c36,SC,Seychelles
-190,8b9efe48-487f-446f-aa4f-ccc9ff5b6ea8,SD,Sudan
-191,ba348189-2b80-4723-99c6-33b1a17d48a4,SE,Sweden
-192,0319f8fe-fa4e-48b3-9258-bb17bb3201b5,SG,Singapore
-193,e53c4085-9663-41b1-8a98-7b085cd9cb02,SH,Saint Helena
-194,6a9e208f-5a79-4a0f-8174-5ab777bc604f,SI,Slovenia
-195,de5d5acd-9063-4e81-afcf-99496cba49fb,SJ,Svalbard And Jan Mayen
-196,59b71ca8-0618-482d-b890-6987c09df0b0,SK,Slovakia
-197,1af151e3-a8b2-41b1-bc1e-06ffb51ac8f1,SL,Sierra Leone
-198,64dab95b-ce3e-47d9-9392-61e067b8fe38,SM,San Marino
-199,9eba7b59-121f-4d07-b6d7-7b39928609fb,SN,Senegal
-200,fe532f9b-9dd7-49c5-9379-a69e6d268497,SO,Somalia
-201,f4597198-8ea3-41df-8fe7-82bd9ad67371,SR,Suriname
-202,f3561098-5e04-4a12-b9d2-8a8bbd1dd8ff,ST,Sao Tome And Principe
-203,78de8ea1-dc64-464f-b18b-1c722bf074c9,SV,El Salvador
-204,c370f02d-ee21-436d-bc73-a0c022199d10,SY,Syrian Arab Republic
-205,7e08ced1-d071-45dc-bf25-6b51cba2334c,SZ,Swaziland
-206,572daa38-3266-44e2-87c2-57f7fd7b8b6e,TC,Turks And Caicos Islands
-207,366321c3-8eb6-40d2-b3b2-48e43c05b00b,TD,Chad
-208,6ceebfdc-29f3-4280-b68e-b76ed34789c1,TF,French Southern Territories
-209,74658479-8b31-4b2c-b883-45fea9eeb74e,TG,Togo
-210,f3caa443-43fd-46e7-a6b9-afd5e426c206,TH,Thailand
-211,1de23d7b-6b97-40d2-bc72-e3a5ef5cad09,TJ,Tajikistan
-212,dc575cd1-0b6f-421c-8cd7-6f44851fa701,TK,Tokelau
-213,86525520-0384-43c6-a464-c4e5bd3b1f84,TL,Timor-Leste
-214,1acd6bd3-6a79-4215-8d40-bc1d51446480,TM,Turkmenistan
-215,27fc4da6-8dc3-4a0b-b2c5-eea10288aa98,TN,Tunisia
-216,3ebf8d15-7d46-42a6-90fb-c0870d5e1c58,TO,Tonga
-217,042e3e8e-97f7-4529-8901-c34eddb244a1,TR,Turkey
-218,1b8dcc45-25c0-4edc-a102-dbd1deee2c89,TT,Trinidad And Tobago
-219,e942bb46-ec92-408e-80ed-ce7fe82a2f32,TV,Tuvalu
-220,e8582c19-58f0-4832-a717-6aa703e2771d,TW,"Taiwan, Province Of China"
-221,374470d7-cf7f-4c74-9fcc-0f724d0daedc,TZ,"Tanzania, United Republic Of"
-222,00fe523f-c1f1-4a14-b641-d9d83ff50173,UA,Ukraine
-223,7777aafd-55bc-402f-9fe2-51c6ad75e955,UG,Uganda
-224,58e16f5c-188e-4ec5-9336-3d65596c8017,UM,United States Minor Outlying I
-225,bab4cbd0-541d-4150-9d9d-5822b3c46ef0,US,United States
-226,2b80fa2c-a19a-4971-b50a-4f2f84e7f7f0,UY,Uruguay
-227,de483e99-ca06-4987-aea9-a8a967867df1,UZ,Uzbekistan
-228,6f9a351b-19e0-48a0-b44a-4845bbd1c600,VA,Holy See (Vatican City State)
-229,74b03c2b-ac06-4e0c-afd9-50c9b1fe4952,VC,Saint Vincent And The Grenadin
-230,17d72bb3-5e64-42d4-a010-9a38c79fd840,VE,Venezuela
-231,8b03987b-b748-47c5-9fa1-755e333b6eb3,VG,"Virgin Islands, British"
-232,18e6728f-21e0-4c56-a743-3ad9337dfa8a,VI,"Virgin Islands, U.S."
-233,95337ad8-e75b-4c3c-ad8f-607c813f24d7,VN,Viet Nam
-234,090fe572-1f80-4a0b-b928-7e8ba5784d51,VU,Vanuatu
-235,513a17f2-d6ef-490b-95ae-e651f8edf00d,WF,Wallis And Futuna
-236,7664a7f6-a87f-4ba3-9dcc-0905d5f80071,WS,Samoa
-237,e4b59238-342c-4997-bb9c-feb36e0a9c5a,YE,Yemen
-238,77cbab98-34a2-4168-bd55-2993b2b15424,YT,Mayotte
-239,72b63149-d6f2-4a86-9985-a2e56e17f884,ZA,South Africa
-240,d7aa38ff-a6af-4288-95b2-55fca670c22b,ZM,Zambia
-241,dc96533a-2c37-47a3-a55f-625dba2921c5,ZW,Zimbabwe
-988,afca7255-0558-4878-aa5b-fe960aed3372,AD,First
-989,f319c8c0-f677-4255-87b7-11c8381e0c55,AE,New
-990,77aceb7f-e30e-4984-8a15-4f9ffc08c85c,AE,New
-991,82722deb-3461-4e0f-a9ba-e4bdc5089a92,SV,Soviet Union
-992,2b752fab-cead-4016-b5ce-631e20ea29c0,RS,Russia
-993,8ce7fcee-205c-4806-9083-af115fab5048,CS,Czechoslovakia
-995,bbce673b-639d-4000-8b75-08c78514c763,null,West Germany
-996,1e16289d-9406-47be-b20d-a84e20bc2b5e,null,East Germany
-997,36529299-8277-4fcb-a3f5-00ffb7907547,null,Yugoslavia
-998,5adab36f-26ef-4bc6-bf3a-d0a4212ba67e,null,Scotland
-1000,994cd1d7-546c-4307-8510-92155957fef7,null,Republic of North Macedonia
-1001,b4ff37a8-7263-447e-b3b1-7c454ff6e5bd,null,North Korea
-1002,9c913a3f-91b1-4744-b47c-3bce17e44e3d,null,Korea
+CountryId,Code,Name
+1,AD,Andorra
+2,AE,United Arab Emirates
+3,AF,Afghanistan
+4,AG,Antigua And Barbuda
+5,AI,Anguilla
+6,AL,Albania
+7,AM,Armenia
+8,AN,Netherlands Antilles
+9,AO,Angola
+10,AQ,Antarctica
+11,AR,Argentina
+12,AS,American Samoa
+13,AT,Austria
+14,AU,Australia
+15,AW,Aruba
+16,AX,Åland Islands
+17,AZ,Azerbaijan
+18,BA,Bosnia And Herzegovina
+19,BB,Barbados
+20,BD,Bangladesh
+21,BE,Belgium
+22,BF,Burkina Faso
+23,BG,Bulgaria
+24,BH,Bahrain
+25,BI,Burundi
+26,BJ,Benin
+27,BM,Bermuda
+28,BN,Brunei Darussalam
+29,BO,Bolivia
+30,BR,Brazil
+31,BS,Bahamas
+32,BT,Bhutan
+33,BV,Bouvet Island
+34,BW,Botswana
+35,BY,Belarus
+36,BZ,Belize
+37,CA,Canada
+38,CC,Cocos (Keeling) Islands
+39,CD,"Congo, The Democratic Republic"
+40,CF,Central African Republic
+41,CG,Congo
+42,CH,Switzerland
+43,CI,Cote D'Ivoire
+44,CK,Cook Islands
+45,CL,Chile
+46,CM,Cameroon
+47,CN,China
+48,CO,Colombia
+49,CR,Costa Rica
+50,CS,Serbia And Montenegro
+51,CU,Cuba
+52,CV,Cape Verde
+53,CX,Christmas Island
+54,CY,Cyprus
+55,CZ,Czech Republic
+56,DE,Germany
+57,DJ,Djibouti
+58,DK,Denmark
+59,DM,Dominica
+60,DO,Dominican Republic
+61,DZ,Algeria
+62,EC,Ecuador
+63,EE,Estonia
+64,EG,Egypt
+65,EH,Western Sahara
+66,ER,Eritrea
+67,ES,Spain
+68,ET,Ethiopia
+69,FI,Finland
+70,FJ,Fiji
+71,FK,Falkland Islands (Malvinas)
+72,FM,"Micronesia, Federated States O"
+73,FO,Faroe Islands
+74,FR,France
+75,GA,Gabon
+76,GB,United Kingdom
+77,GD,Grenada
+78,GE,Georgia
+79,GF,French Guiana
+80,GH,Ghana
+81,GI,Gibraltar
+82,GL,Greenland
+83,GM,Gambia
+84,GN,Guinea
+85,GP,Guadeloupe
+86,GQ,Equatorial Guinea
+87,GR,Greece
+88,GS,South Georgia And The South Sa
+89,GT,Guatemala
+90,GU,Guam
+91,GW,Guinea-Bissau
+92,GY,Guyana
+93,null,"Hong Kong, China"
+94,HM,Heard Island And Mcdonald Isla
+95,HN,Honduras
+96,HR,Croatia
+97,HT,Haiti
+98,HU,Hungary
+99,ID,Indonesia
+100,IE,Ireland
+101,IL,Israel
+102,IN,India
+103,IO,British Indian Ocean Territory
+104,IQ,Iraq
+105,IR,"Iran, Islamic Republic Of"
+106,IS,Iceland
+107,IT,Italy
+108,JM,Jamaica
+109,JO,Jordan
+110,JP,Japan
+111,KE,Kenya
+112,KG,Kyrgyzstan
+113,KH,Cambodia
+114,KI,Kiribati
+115,KM,Comoros
+116,KN,Saint Kitts And Nevis
+118,null,South Korea
+119,KW,Kuwait
+120,KY,Cayman Islands
+121,KZ,Kazakhstan
+122,LA,Lao People's Democratic Republ
+123,LB,Lebanon
+124,LC,Saint Lucia
+125,LI,Liechtenstein
+126,LK,Sri Lanka
+127,LR,Liberia
+128,LS,Lesotho
+129,LT,Lithuania
+130,LU,Luxembourg
+131,LV,Latvia
+132,LY,Libyan Arab Jamahiriya
+133,MA,Morocco
+134,MC,Monaco
+135,MD,"Moldova, Republic Of"
+136,MG,Madagascar
+137,MH,Marshall Islands
+138,MK,"Macedonia, The Former Yugoslav"
+139,ML,Mali
+140,MM,Myanmar
+141,MN,Mongolia
+142,MO,Macao
+143,MP,Northern Mariana Islands
+144,MQ,Martinique
+145,MR,Mauritania
+146,MS,Montserrat
+147,MT,Malta
+148,MU,Mauritius
+149,MV,Maldives
+150,MW,Malawi
+151,MX,Mexico
+152,MY,Malaysia
+153,MZ,Mozambique
+154,NA,Namibia
+155,NC,New Caledonia
+156,NE,Niger
+157,NF,Norfolk Island
+158,NG,Nigeria
+159,NI,Nicaragua
+160,NL,Netherlands
+161,NO,Norway
+162,NP,Nepal
+163,NR,Nauru
+164,NU,Niue
+165,NZ,New Zealand
+166,OM,Oman
+167,PA,Panama
+168,PE,Peru
+169,PF,French Polynesia
+170,PG,Papua New Guinea
+171,PH,Philippines
+172,PK,Pakistan
+173,PL,Poland
+174,PM,Saint Pierre And Miquelon
+175,PN,Pitcairn
+176,PR,Puerto Rico
+177,PS,"Palestinian Territory, Occupie"
+178,PT,Portugal
+179,PW,Palau
+180,PY,Paraguay
+181,QA,Qatar
+182,RE,Reunion
+183,RO,Romania
+184,RS,Serbia
+185,RU,Russian Federation
+186,RW,Rwanda
+187,SA,Saudi Arabia
+188,SB,Solomon Islands
+189,SC,Seychelles
+190,SD,Sudan
+191,SE,Sweden
+192,SG,Singapore
+193,SH,Saint Helena
+194,SI,Slovenia
+195,SJ,Svalbard And Jan Mayen
+196,SK,Slovakia
+197,SL,Sierra Leone
+198,SM,San Marino
+199,SN,Senegal
+200,SO,Somalia
+201,SR,Suriname
+202,ST,Sao Tome And Principe
+203,SV,El Salvador
+204,SY,Syrian Arab Republic
+205,SZ,Swaziland
+206,TC,Turks And Caicos Islands
+207,TD,Chad
+208,TF,French Southern Territories
+209,TG,Togo
+210,TH,Thailand
+211,TJ,Tajikistan
+212,TK,Tokelau
+213,TL,Timor-Leste
+214,TM,Turkmenistan
+215,TN,Tunisia
+216,TO,Tonga
+217,TR,Turkey
+218,TT,Trinidad And Tobago
+219,TV,Tuvalu
+220,TW,"Taiwan, Province Of China"
+221,TZ,"Tanzania, United Republic Of"
+222,UA,Ukraine
+223,UG,Uganda
+224,UM,United States Minor Outlying I
+225,US,United States
+226,UY,Uruguay
+227,UZ,Uzbekistan
+228,VA,Holy See (Vatican City State)
+229,VC,Saint Vincent And The Grenadin
+230,VE,Venezuela
+231,VG,"Virgin Islands, British"
+232,VI,"Virgin Islands, U.S."
+233,VN,Viet Nam
+234,VU,Vanuatu
+235,WF,Wallis And Futuna
+236,WS,Samoa
+237,YE,Yemen
+238,YT,Mayotte
+239,ZA,South Africa
+240,ZM,Zambia
+241,ZW,Zimbabwe
+988,AD,First
+989,AE,New
+990,AE,New
+991,SV,Soviet Union
+992,RS,Russia
+993,CS,Czechoslovakia
+995,null,West Germany
+996,null,East Germany
+997,null,Yugoslavia
+998,null,Scotland
+1000,null,Republic of North Macedonia
+1001,null,North Korea
+1002,null,Korea
