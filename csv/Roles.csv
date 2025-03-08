@@ -1,7 +1,7 @@
-RoleId,Guid,Name,Order
-52,0a06f05f-4227-4cd1-be82-768ac687566e,Director,1
-54,ee4cde42-6504-4d43-a208-adda6604cb89,Producer,5
-55,c1748552-8cdb-4549-bde4-7d800ff26961,Cast,6
-56,d26ce4be-ef14-417f-bf6b-091c904e5542,Screenwriter,0
-57,b2a6359d-593f-417d-8eca-05e04a4545c3,Music,3
-58,07960137-9436-4efc-8c41-d54d448210d5,Cinematographer,0
+RoleId,Name,Order
+52,Director,1
+54,Producer,5
+55,Cast,6
+56,Screenwriter,0
+57,Music,3
+58,Cinematographer,0
