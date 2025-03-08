@@ -1,165 +1,165 @@
-LanguageId,Code,Name
-1,AB,Abkhazian
-2,AA,Afar
-3,AF,Afrikaans
-4,SQ,Albanian
-5,AM,Amharic
-6,AR,Arabic
-7,HY,Armenian
-8,AS,Assamese
-9,AY,Aymara
-10,AZ,Azerbaijani
-11,BA,Bashkir
-12,EU,Basque
-13,BN,"Bengali, Bangla"
-14,DZ,Bhutani
-15,BH,Bihari
-16,BI,Bislama
-17,BR,Breton
-18,BG,Bulgarian
-19,MY,Burmese
-20,BE,Byelorussian
-21,KM,Cambodian
-22,CA,Catalan
-23,ZH,Chinese
-24,CO,Corsican
-25,HR,Croatian
-26,CS,Czech
-27,DA,Danish
-28,NL,Dutch
-30,EO,Esperanto
-31,ET,Estonian
-32,FO,Faeroese
-33,FJ,Fiji
-34,FI,Finnish
-35,FR,French
-36,FY,Frisian
-37,GD,Gaelic (Scots Gaelic)
-38,GL,Galician
-39,KA,Georgian
-40,DE,German
-41,EL,Greek
-42,KL,Greenlandic
-43,GN,Guarani
-44,GU,Gujarati
-45,HA,Hausa
-46,IW,Hebrew
-47,HI,Hindi
-48,HU,Hungarian
-49,IS,Icelandic
-50,IN,Indonesian
-51,IA,English
-52,IE,Interlingue
-53,IK,Inupiak
-54,GA,Irish
-55,IT,Italian
-56,JA,Japanese
-57,JW,Javanese
-58,KN,Kannada
-59,KS,Kashmiri
-60,KK,Kazakh
-61,RW,Kinyarwanda
-62,KY,Kirghiz
-63,RN,Kirundi
-64,KO,Korean
-65,KU,Kurdish
-66,LO,Laothian
-67,LA,Latin
-68,LV,"Latvian, Lettish"
-69,LN,Lingala
-70,LT,Lithuanian
-71,MK,Macedonian
-72,MG,Malagasy
-73,MS,Malay
-74,ML,Malayalam
-75,MT,Maltese
-76,MI,Maori
-77,MR,Marathi
-78,MO,Moldavian
-79,MN,Mongolian
-80,NA,Nauru
-81,NE,Nepali
-82,NO,Norwegian
-83,OC,Occitan
-84,OR,Oriya
-85,OM,"Oromo, Afan"
-86,PS,"Pashto, Pushto"
-87,FA,Persian
-88,PL,Polish
-89,PT,Portuguese
-90,PA,Punjabi
-91,QU,Quechua
-92,RM,Rhaeto-Romance
-93,RO,Romanian
-94,RU,Russian
-95,SM,Samoan
-96,SG,Sangro
-97,SA,Sanskrit
-98,SR,Serbian
-99,SH,Serbo-Croatian
-100,ST,Sesotho
-101,TN,Setswana
-102,SN,Shona
-103,SD,Sindhi
-104,SI,Singhalese
-105,SS,Siswati
-106,SK,Slovak
-107,SL,Slovenian
-108,SO,Somali
-109,ES,Spanish
-110,SU,Sudanese
-111,SW,Swahili
-112,SV,Swedish
-113,TL,Tagalog
-114,TG,Tajik
-115,TA,Tamil
-116,TT,Tatar
-117,TE,Tegulu
-118,TH,Thai
-119,BO,Tibetan
-120,TI,Tigrinya
-121,TO,Tonga
-122,TS,Tsonga
-123,TR,Turkish
-124,TK,Turkmen
-125,TW,Twi
-126,UK,Ukrainian
-127,UR,Urdu
-128,UZ,Uzbek
-129,VI,Vietnamese
-130,VO,Volapuk
-131,CY,Welsh
-132,WO,Wolof
-133,XH,Xhosa
-134,JI,Yiddish
-135,YO,Yoruba
-136,ZU,Zulu
-137,SL,Silent Film
-138,JE,Jamaican English
-139,CA,Cantonese
-140,MN,Mandarin
-142,null,Filipino
-143,null,British Sign Language
-144,null,Inuktitut
-145,null,Telugu
-146,null,Bambara
-147,null,Fulah
-148,null,Yolngu Matha
-149,null,Hawaiian
-150,null,Dzongkha
-151,null,American Sign Language
-152,null,Pauline
-153,null,German Sign Language
-154,null,Ladino
-155,null,Sinhalese
-156,null,Bosnian
-157,null,Swiss German
-158,null,Min Nan
-159,null,Flemish
-160,null,Gallegan
-161,null,Middle English
-162,null,Old English
-163,null,Khmer
-165,null,Shanghainese
-166,null,Irish Gaelic
-167,null,Cree
+LanguageId,Guid,Code,Name
+1,eba24a1a-cce2-4831-8ad8-e7e75d9e9a8e,AB,Abkhazian
+2,bba26931-2c1f-4d08-8ecf-d91aab5debe5,AA,Afar
+3,39dbb860-c444-4939-8495-1f8008eaad2c,AF,Afrikaans
+4,ec46ef66-0491-44e8-a19d-5a90311959f9,SQ,Albanian
+5,aba8f84b-0e03-439c-a48b-c1683da31ede,AM,Amharic
+6,60d0dc9e-4acd-4836-9376-f0bc5ea2f635,AR,Arabic
+7,33d16719-b10d-4ec8-becd-4c3fe7c0411e,HY,Armenian
+8,c19c4b47-9922-412b-9a86-4a3e1f929b6e,AS,Assamese
+9,d8af5162-95cb-4d6b-9d79-94f00c18da77,AY,Aymara
+10,6b085981-1ae4-4ffc-a50d-d1fe0eb4737c,AZ,Azerbaijani
+11,65047ae9-5fa3-46a1-aabb-4167b53298ff,BA,Bashkir
+12,afec0769-74f7-4603-b3ca-584d53c058cc,EU,Basque
+13,a263e7c4-1347-484f-8344-72141530517c,BN,"Bengali, Bangla"
+14,194907d4-fd6d-41ab-9c7b-54df84d6b7c0,DZ,Bhutani
+15,381a97df-ad3d-4355-b8e9-7b7f05708118,BH,Bihari
+16,8598fc48-9f57-4952-890b-759aaee0080d,BI,Bislama
+17,3141a427-36bb-4617-9431-c0f442723c71,BR,Breton
+18,9cdfa3f7-a653-43e7-94a8-b666f2d68914,BG,Bulgarian
+19,0dbdf72f-136c-4ba4-b53d-16ee87fb8649,MY,Burmese
+20,222b591c-b551-4e97-9cd4-c95ff39d6011,BE,Byelorussian
+21,025a57f0-a4fe-4a56-8077-b7fda1afed85,KM,Cambodian
+22,bd9347f8-7777-4209-864c-651141cb12a0,CA,Catalan
+23,b933ec53-1f11-4e21-a043-67a2419ee067,ZH,Chinese
+24,5d8e913a-5219-46e3-8bff-4046e3a623ce,CO,Corsican
+25,b9df3400-41bb-46a8-8b68-7e951f1806b9,HR,Croatian
+26,5db38fdd-3b64-4392-9002-ce7512bf3ceb,CS,Czech
+27,4f571464-c0f6-460c-a1f2-fd307f5fe744,DA,Danish
+28,927df241-9b2c-4a41-bbe1-d6151a413b40,NL,Dutch
+30,5939beea-61e0-4cdf-b0ff-b02151471bd6,EO,Esperanto
+31,d0225294-49b3-458d-893d-ecd576c7391f,ET,Estonian
+32,048e0ec3-5459-4c50-85ef-8fc2edc5f103,FO,Faeroese
+33,108b6a5c-5078-4d3c-95ee-e32c28f5f53f,FJ,Fiji
+34,db5c71e1-57ef-4e4d-b808-9c9c6d40f47f,FI,Finnish
+35,4e44d169-1292-4d6e-b5b9-fddc14fbbcdc,FR,French
+36,199c0f28-1cb0-4bd5-b4fe-f2a5aec51fb1,FY,Frisian
+37,b523a9b5-b7cc-4c2c-8be9-2b42cb4dde0e,GD,Gaelic (Scots Gaelic)
+38,6b37811b-45c1-49ae-a600-5c1047d454d7,GL,Galician
+39,3c964b4d-fe96-4fcf-9f6a-61207bf52f77,KA,Georgian
+40,4fa23b9d-0f0a-49a5-848f-591e23711c37,DE,German
+41,45040cf8-bcce-4383-acc5-eacf98b8efa7,EL,Greek
+42,56002e63-da55-45ec-aff2-923e10d374db,KL,Greenlandic
+43,8dfed622-ec07-4284-b0af-de7684053cb4,GN,Guarani
+44,6eb28fdd-ded1-471d-8e0b-fdfd5fff160e,GU,Gujarati
+45,5967b7a7-f974-4ff5-b565-f4cc3e0080ac,HA,Hausa
+46,3628564c-ce28-4570-8b37-4c1cc4ec385a,IW,Hebrew
+47,2872938c-9c70-477b-83c3-3fe8ba4abc89,HI,Hindi
+48,c5b0606d-4e0c-42cb-9abd-f99bf45fe357,HU,Hungarian
+49,f2254bb4-1713-4d95-ac26-98d0ec049c0d,IS,Icelandic
+50,90c27777-4623-4460-9aa3-f57839e1a2ed,IN,Indonesian
+51,128ec9c0-9293-4d2f-bf04-855a76e8dbe0,IA,English
+52,277b6236-2c1c-4225-ac97-86d2fb597b50,IE,Interlingue
+53,afe7ee62-57c9-42c1-98bb-b76fa9317e1a,IK,Inupiak
+54,3a139f20-24d4-4560-a938-b4afe35ed51f,GA,Irish
+55,270ebc71-de8e-476e-9eaf-4d3a9ac687da,IT,Italian
+56,fe758c24-6a48-4f9c-8424-ea1956da1ac4,JA,Japanese
+57,9f8601ee-bac9-42a0-b29b-0e802c70bade,JW,Javanese
+58,86d16341-755a-494f-8485-feb32c099b8c,KN,Kannada
+59,a4e0e3d7-10a3-4e70-8ef8-7a4732492e8b,KS,Kashmiri
+60,a0f3eb56-41fb-468a-a0fd-d4e769901f2d,KK,Kazakh
+61,1180c9a3-5f78-430d-b295-0369c84b50f5,RW,Kinyarwanda
+62,efd6e457-cfd5-4393-9b84-0055795ce726,KY,Kirghiz
+63,5afa492e-7592-4fb4-90d6-fdaaa223fa57,RN,Kirundi
+64,1e85dcaf-bd03-48dc-98bd-73e2e2779c7b,KO,Korean
+65,a6aee757-29b0-4e74-9367-7fb4b8078626,KU,Kurdish
+66,71d821a9-f77b-4a66-82f1-6cdb8391eb40,LO,Laothian
+67,21d18762-d7d2-4ce4-a7b4-ea2efcbc1e17,LA,Latin
+68,9c91e337-de90-4248-93d0-9d1dd02cdfbd,LV,"Latvian, Lettish"
+69,3a920c1e-e3cb-4322-a95d-fec1d513b2c3,LN,Lingala
+70,7a8c5e91-8e6c-4e32-95d3-f3eb2390280c,LT,Lithuanian
+71,363840f9-6f1c-4ee4-b67f-159d8998e1d9,MK,Macedonian
+72,afb4e0da-d3e6-48ac-b44c-80652f92f2f0,MG,Malagasy
+73,450c6427-d40b-40ff-9c41-811ba47c6dc4,MS,Malay
+74,c0109eca-a809-467b-bfd2-3bea6f3a89f1,ML,Malayalam
+75,b8e3148b-16b9-48b8-aa42-8629e44d03d3,MT,Maltese
+76,3ba0beb3-e0ff-4052-8eb1-78652a0e3ba2,MI,Maori
+77,cbd8c19c-5fbc-42e1-9abb-92d9b231387b,MR,Marathi
+78,ef7f0dd8-07a1-4726-bc08-0a995197d6cd,MO,Moldavian
+79,64825928-835d-4a9e-bc9d-54fccf759ccd,MN,Mongolian
+80,21e4af23-6ac7-4b26-a62b-938c0ef6f6a5,NA,Nauru
+81,67054f19-92d6-4d91-8f18-057df9dd82a2,NE,Nepali
+82,b4fdee65-3eb6-4778-bb61-a692022ef406,NO,Norwegian
+83,b2c3ae52-a31e-4e95-9dc3-490e41afe90e,OC,Occitan
+84,898d1fe6-60f2-425a-b1a1-2378cfe254e9,OR,Oriya
+85,060efca7-a39d-467c-b18a-a361acd18890,OM,"Oromo, Afan"
+86,ed52d832-b1ec-4891-8fa3-0aee53f8aa25,PS,"Pashto, Pushto"
+87,af43285f-20bd-4d67-aaa9-063a6258046b,FA,Persian
+88,4a8f0ef7-dbdb-44d7-ad0c-53df3a82b320,PL,Polish
+89,d66c728d-eb3c-4695-a4d2-3f77f8a5ca59,PT,Portuguese
+90,15063be2-23ca-4b30-ac32-dce9586f186b,PA,Punjabi
+91,63ec02b2-1117-4d26-bc1e-02ef725729eb,QU,Quechua
+92,7585bdc6-f143-4417-bf0a-28dcf3974077,RM,Rhaeto-Romance
+93,38962bb9-86b9-4d16-ad61-6436782a7783,RO,Romanian
+94,25006cc4-a12b-4570-918f-78a97dca46a3,RU,Russian
+95,80f22801-9f87-43d9-b0ae-2b37fa909658,SM,Samoan
+96,de15d143-8d23-4118-b273-9dfde2eed380,SG,Sangro
+97,5fc3c110-47bb-4a86-b144-a298f9e6153b,SA,Sanskrit
+98,be780d31-0e95-45fa-9256-19c77a769c5c,SR,Serbian
+99,501c6680-46c4-4dd9-8b93-998921a295d3,SH,Serbo-Croatian
+100,030f5b39-a922-4d11-8188-76529003baad,ST,Sesotho
+101,a9a1f99b-deb2-48bd-8331-15647ea21e1e,TN,Setswana
+102,7a5bfcac-29ca-45b1-bf3e-c6cc3d11d0ff,SN,Shona
+103,4953393d-2151-445c-af31-8f9f8e45ca27,SD,Sindhi
+104,6750f02a-6811-4cd7-ab69-02fa57f9cfa3,SI,Singhalese
+105,2f8fd847-7107-4f75-8772-9f1b8837c2ff,SS,Siswati
+106,4ff7967b-ba33-4eb7-a6f1-43348acfd978,SK,Slovak
+107,d2824434-f3ce-495e-a9c2-573cae2f6f6e,SL,Slovenian
+108,9971d996-b67e-403d-94c9-2616d20549e0,SO,Somali
+109,564888a3-9c45-45fe-a75d-22f142fe28c1,ES,Spanish
+110,d6415d27-b646-468a-9d73-b2044b0ee37f,SU,Sudanese
+111,accae554-284a-49d7-b402-049feab331af,SW,Swahili
+112,68cb3e51-ebdc-4355-bbff-0a3453a371f1,SV,Swedish
+113,dd7f7eb4-8ef6-47a5-bf4f-dba9a54d4a3b,TL,Tagalog
+114,7d610149-c59f-49f4-8747-a1c3d58b754b,TG,Tajik
+115,70f08629-bd0f-420c-95d9-6d0244c63fc2,TA,Tamil
+116,6ff62447-bd33-49d4-93c5-15ec981846c1,TT,Tatar
+117,7ebc4be7-d1e1-4698-9720-9c1bdc6dd3e2,TE,Tegulu
+118,7d02c046-57b7-4b14-9813-eb12fc2350e0,TH,Thai
+119,3d3f69c7-72e0-427a-a3c2-eea3ee272f87,BO,Tibetan
+120,4bdedd2a-f64a-4f23-adc2-5b92aaee6107,TI,Tigrinya
+121,aa0c18c7-f02c-48d5-9ecd-4ab2a350c002,TO,Tonga
+122,797dee46-ece2-4b3f-a453-3c2af7323cc1,TS,Tsonga
+123,e282bd33-9620-400d-91e8-b974d12c0866,TR,Turkish
+124,6b0229ef-a45b-416f-9539-9ab2beb14d7d,TK,Turkmen
+125,2673f1d7-080a-4401-9a6a-1279c0821a21,TW,Twi
+126,7a54cb57-4518-4ee3-b447-3ab0095a379f,UK,Ukrainian
+127,a2ed7333-36c9-4d28-91d4-73b47b4e60fe,UR,Urdu
+128,846904c7-46e8-42ca-919a-3c6ce92f09fe,UZ,Uzbek
+129,45ed65c9-8447-4bc3-a522-f16ef2fa5618,VI,Vietnamese
+130,d26bc3bb-0500-4dff-a027-65bb10e563ab,VO,Volapuk
+131,b88ab421-e899-4555-b89c-a3bf85010f20,CY,Welsh
+132,d04bf62f-6a29-4a4d-8e0f-0f5c16488ccd,WO,Wolof
+133,64055e30-fdb2-4472-a7f9-5b5509d2b7f4,XH,Xhosa
+134,b3cfa286-80f5-4540-a90b-cee2fd1999f4,JI,Yiddish
+135,e874e877-c84b-43f6-8967-7b32ca68b1b4,YO,Yoruba
+136,f67c5f8e-22e8-4ea3-96eb-36c56b2504a4,ZU,Zulu
+137,3387e5b6-d36d-4475-8b34-e918249b7474,SL,Silent Film
+138,a5be143c-038b-4661-9a23-3d71d40aa7d6,JE,Jamaican English
+139,2e5acb96-569b-439b-b810-4108d057b544,CA,Cantonese
+140,deabd6e3-9c2d-4a79-afef-942da4b9550d,MN,Mandarin
+142,942de002-9a05-4cd5-b3d3-10a7b5c58de5,null,Filipino
+143,1e8d4e14-7816-47e9-acf0-e07a5c99f00d,null,British Sign Language
+144,e44a1d2f-d83d-48c2-a628-a6816cdb3e2d,null,Inuktitut
+145,297d4d32-8572-402a-b355-667664ddfb76,null,Telugu
+146,f1ab9e21-4ac3-4aa5-a379-e579cd9ff414,null,Bambara
+147,79806a20-27dc-4236-8b30-f0631802e346,null,Fulah
+148,76ed40d2-a1ae-47e3-8b1b-3cddefacf372,null,Yolngu Matha
+149,faf4fae4-8299-4ac0-9fd6-b4b96ccac58f,null,Hawaiian
+150,93a6a059-a0dd-480b-be21-80a4ed3002d4,null,Dzongkha
+151,c8ba2a88-6e49-443e-a5fb-f8fcd754e549,null,American Sign Language
+152,465088c0-d5dd-4b8e-b760-9a4a6ae2dcad,null,Pauline
+153,a4cf7ca6-145e-4e3b-8799-0087fc708d0a,null,German Sign Language
+154,5f963f65-f5db-43e6-b210-ef4cfdaf8181,null,Ladino
+155,fb5e00c5-7e54-42b7-8b65-192a0d87e0c1,null,Sinhalese
+156,01426640-a226-410d-b31e-2e63260c27ba,null,Bosnian
+157,b249258a-dd6b-42c9-9b77-6b967655f43c,null,Swiss German
+158,e01b1c0e-ca49-4e2f-9b2e-b10bf38e40cb,null,Min Nan
+159,e757cb26-1f23-471d-b95c-60bb3a10c473,null,Flemish
+160,f1bb1f95-bc3c-444f-91a6-8d73b6722396,null,Gallegan
+161,994af154-e01c-4dee-a3a7-b3eb6d741e16,null,Middle English
+162,674a2494-698a-4727-bbd0-16225d8cfcf5,null,Old English
+163,2e035bd0-4378-420d-b933-2dfee856b8f0,null,Khmer
+165,1226b829-1d86-43ab-899f-19eb1e1d8122,null,Shanghainese
+166,dcd26af7-a25a-4ee7-9cd5-11cfd3906fa0,null,Irish Gaelic
+167,c46e0f34-c84d-4eaa-ab22-d1adf50bde59,null,Cree
