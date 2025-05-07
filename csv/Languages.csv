@@ -1,4 +1,4 @@
-Guid,Code,Name
+Guid,Code,Name,CreatedOn,CreatedBy,UpdatedOn,UpdatedBy
 01426640-a226-410d-b31e-2e63260c27ba,BOS,Bosnian
 025a57f0-a4fe-4a56-8077-b7fda1afed85,KM,Cambodian
 030f5b39-a922-4d11-8188-76529003baad,ST,Sesotho

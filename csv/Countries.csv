@@ -1,4 +1,4 @@
-Guid,Code,Name
+Guid,Code,Name,CreatedOn,CreatedBy,UpdatedOn,UpdatedBy
 001db637-9365-4347-8d81-b62825050655,SV,El Salvador
 00e39fb9-0c5f-4960-9285-ba211507fd98,GM,Gambia
 026b3bc5-0008-4843-b1e6-d0f6436dd135,VE,Venezuela
